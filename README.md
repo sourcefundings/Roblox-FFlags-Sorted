@@ -1,4 +1,4 @@
-#Roblox FFlags Sorted
+# Roblox FFlags Sorted
 **A repository that sorts and categorizes all Roblox FastFlags by their active channels.**
 
 **How It Works:**
