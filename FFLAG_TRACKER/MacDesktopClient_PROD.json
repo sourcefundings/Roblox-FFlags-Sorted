@@ -22611,7 +22611,6 @@
     "FFlagUserDoubleJumpButtonFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:19:32",
     "FFlagUserAbilitiesUserInterfaceB_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:21:13",
     "DFIntLoadTestParticipationPerMillionUsers": "0",
-    "FFlagEnableDesktopExternalIdentity_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:26:01",
     "DFIntLoadTestStartTimeUnix": "0",
     "FFlagGoogleAppleSsoDesktop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:28:24",
     "FFlagUserOrthographicOcculusion": "True",
@@ -22643,6 +22642,9 @@
     "DFFlagSRS4478": "True",
     "FFlagLiveScriptingServerTextDocument2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:30:59",
     "FFlagStudioFontDialogDontUseNativeDialog_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:33:13",
+    "FFlagMigrateFriendshipStatusesPYMK_v1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:34:43",
+    "FFlagScriptEditorEnsureAllChecksHaveTimeouts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:36:53",
+    "FFlagMigrateFriendshipStatusesUserSearch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:37:50",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -24028,9 +24030,9 @@
     "FFlagUserSearchJoinPassStorePresence": "True",
     "FFlagAXAllowFreeItemsFromOffer": "True",
     "FFlagDMRecorderRecordGuiServiceScreenContext": "True",
-    "FStringFlagRepoGitHashFastString": "811bd95f6d9e16479d514eba32770a8b3864ed8e",
-    "DFStringFlagRepoGitHashDynamicString": "811bd95f6d9e16479d514eba32770a8b3864ed8e",
-    "FStringFlipTimeStampFastString": "2026-10-27T21:33:14.232Z",
-    "DFStringFlipTimeStampDynamicString": "2026-10-27T21:33:14.232Z"
+    "FStringFlagRepoGitHashFastString": "9d3fb1d0154ac671f4c2a6a472fdb4067a124241",
+    "DFStringFlagRepoGitHashDynamicString": "9d3fb1d0154ac671f4c2a6a472fdb4067a124241",
+    "FStringFlipTimeStampFastString": "2026-10-27T21:38:24.622Z",
+    "DFStringFlipTimeStampDynamicString": "2026-10-27T21:38:24.622Z"
   }
 }
