@@ -22641,6 +22641,8 @@
     "FFlagShareSheetUseFoundationCenterSheetHeightFix": "True",
     "DFFlagUseGroundControllerTurnPDStep_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-10-27T21:19:04",
     "DFFlagSRS4478": "True",
+    "FFlagLiveScriptingServerTextDocument2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:30:59",
+    "FFlagStudioFontDialogDontUseNativeDialog_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:33:13",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -24026,9 +24028,9 @@
     "FFlagUserSearchJoinPassStorePresence": "True",
     "FFlagAXAllowFreeItemsFromOffer": "True",
     "FFlagDMRecorderRecordGuiServiceScreenContext": "True",
-    "FStringFlagRepoGitHashFastString": "8ad1c985ff1462b9d8f9df7a4b3c482f21aea4ef",
-    "DFStringFlagRepoGitHashDynamicString": "8ad1c985ff1462b9d8f9df7a4b3c482f21aea4ef",
-    "FStringFlipTimeStampFastString": "2026-10-27T21:27:47.962Z",
-    "DFStringFlipTimeStampDynamicString": "2026-10-27T21:27:47.962Z"
+    "FStringFlagRepoGitHashFastString": "811bd95f6d9e16479d514eba32770a8b3864ed8e",
+    "DFStringFlagRepoGitHashDynamicString": "811bd95f6d9e16479d514eba32770a8b3864ed8e",
+    "FStringFlipTimeStampFastString": "2026-10-27T21:33:14.232Z",
+    "DFStringFlipTimeStampDynamicString": "2026-10-27T21:33:14.232Z"
   }
 }
