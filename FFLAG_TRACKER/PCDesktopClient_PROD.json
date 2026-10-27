@@ -22645,6 +22645,7 @@
     "FFlagMigrateFriendshipStatusesPYMK_v1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:34:43",
     "FFlagScriptEditorEnsureAllChecksHaveTimeouts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:36:53",
     "FFlagMigrateFriendshipStatusesUserSearch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:37:50",
+    "FFlagEnableDesktopSsoSignupDialog_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:41:16",
     "FFlagRenderEnableGlobalInstancingD3D11": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -24119,9 +24120,11 @@
     "FFlagAdAvailabilityCacheOncePerResult_IXP": "1;Ads.RewardedAds.InternalErrorBackOff;Ads.RewardedAds.2026Q4.InternalErrorBackoff;864752762;dev_controlled",
     "FFlagAdInternalErrorCacheBackoffEnabled_IXP": "1;Ads.RewardedAds.InternalErrorBackOff;Ads.RewardedAds.2026Q4.InternalErrorBackoff;864752762;dev_controlled",
     "FFlagDMRecorderRecordGuiServiceScreenContext": "True",
-    "FStringFlagRepoGitHashFastString": "9d3fb1d0154ac671f4c2a6a472fdb4067a124241",
-    "DFStringFlagRepoGitHashDynamicString": "9d3fb1d0154ac671f4c2a6a472fdb4067a124241",
-    "FStringFlipTimeStampFastString": "2026-10-27T21:38:24.622Z",
-    "DFStringFlipTimeStampDynamicString": "2026-10-27T21:38:24.622Z"
+    "FFlagEnableDesktopExternalIdentity_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:41:49",
+    "DFIntExternalIdentityDesktopBrowserOperationTimeoutSeconds_Staged": "180;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-10-27T21:42:15",
+    "FStringFlagRepoGitHashFastString": "d1d50b20a23bd59fc30653d2c33b6c112459baf2",
+    "DFStringFlagRepoGitHashDynamicString": "d1d50b20a23bd59fc30653d2c33b6c112459baf2",
+    "FStringFlipTimeStampFastString": "2026-10-27T21:45:25.546Z",
+    "DFStringFlipTimeStampDynamicString": "2026-10-27T21:45:25.546Z"
   }
 }
