@@ -11,3 +11,8 @@ Note: This repository currently updates whenever I run the script manually on my
 
 **Requests & Ideas**
 If you want me to set up an automated 24/7 tracker that automatically updates and pushes changes as soon as channels drop new FFlags, let me know by opening an issue!
+
+If anyone knows how to access these channel's FFlags please let me know immediatly
+PCServer8
+PCServerClient
+RCCService
