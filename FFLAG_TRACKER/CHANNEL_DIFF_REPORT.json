@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28 02:30:26 GMT",
+  "generated": "2026-10-28 15:59:11 GMT",
   "channels": {
     "z1daflag": {
       "PCDesktopClient": {
@@ -228,7 +228,6 @@
           "FFlagPromptCreateMakeupAsyncEnabled6 = True",
           "FFlagStudioPropagateUniverseLookupError = True",
           "FFlagSavePlaceWaitsForInFlightPublish = True",
-          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01",
           "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
           "FFlagSduiOptionSelectorAnchorTag = True",
           "FFlagFRMAddStudioQLGatesForClouds = True",
@@ -280,6 +279,7 @@
           "DFFlagWebParserEncodeInvalidJsonInfNanEvenOnSkip (True -> true)",
           "DFFlagWebParserEncodeInvalidJsonInfNanEvenOnSkipLua (True -> true)",
           "DFFlagWebParserEncodeInvalidJsonInfNanLua (True -> true)",
+          "FFlagFlagRolloutTestStaticBool14 (False -> True)",
           "FIntMomentsFeedAnimationSpeed_IXP (1;Moments.Feed;Moments.Feed.SwipeSpeed3;1117961493;dev_controlled -> 1;Moments.Feed;Moments.Feed.SwipeSpeed;70183589;dev_controlled)",
           "FIntMomentsFeedSnapSensitivityMilli_IXP (1;Moments.Feed;Moments.Feed.SwipeSpeed3;1117961493;dev_controlled -> 1;Moments.Feed;Moments.Feed.SwipeSpeed;70183589;dev_controlled)",
           "DFFlagPrebuiltBatchedMetricAtomicStop (True -> false)",
@@ -549,7 +549,6 @@
           "FFlagPromptCreateMakeupAsyncEnabled6 = True",
           "FFlagStudioPropagateUniverseLookupError = True",
           "FFlagSavePlaceWaitsForInFlightPublish = True",
-          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01",
           "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
           "FFlagSduiOptionSelectorAnchorTag = True",
           "FFlagFRMAddStudioQLGatesForClouds = True",
@@ -595,6 +594,7 @@
           "DFFlagWebParserEncodeInvalidJsonInfNanEvenOnSkip (True -> true)",
           "DFFlagWebParserEncodeInvalidJsonInfNanEvenOnSkipLua (True -> true)",
           "DFFlagWebParserEncodeInvalidJsonInfNanLua (True -> true)",
+          "FFlagFlagRolloutTestStaticBool14 (False -> True)",
           "FIntMomentsFeedAnimationSpeed_IXP (1;Moments.Feed;Moments.Feed.SwipeSpeed3;1117961493;dev_controlled -> 1;Moments.Feed;Moments.Feed.SwipeSpeed;70183589;dev_controlled)",
           "FIntMomentsFeedSnapSensitivityMilli_IXP (1;Moments.Feed;Moments.Feed.SwipeSpeed3;1117961493;dev_controlled -> 1;Moments.Feed;Moments.Feed.SwipeSpeed;70183589;dev_controlled)",
           "DFFlagPrebuiltBatchedMetricAtomicStop (True -> false)",
@@ -1175,7 +1175,6 @@
           "FFlagMomentsUpdateReactionIllustrationQuality = True",
           "FFlagUserProfilePlatformProfile6 = True",
           "FFlagSavePlaceWaitsForInFlightPublish = True",
-          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01",
           "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
           "FFlagSQLiteDontFailOnSQLITEBUSY = True",
           "FIntWrapContentProviderMaxBundleCount = 64",
@@ -1291,6 +1290,7 @@
           "DFFlagWebParserEncodeInvalidJsonInfNanEvenOnSkip (True -> true)",
           "DFFlagWebParserEncodeInvalidJsonInfNanEvenOnSkipLua (True -> true)",
           "DFFlagWebParserEncodeInvalidJsonInfNanLua (True -> true)",
+          "FFlagFlagRolloutTestStaticBool14 (False -> True)",
           "FFlagExpChatTCWAllowKeyboardNav (False -> True)",
           "DFFlagAddTranslationDisplayMode (True -> false)",
           "FFlagVoiceConnectSelectorDebounce (False -> True)",
@@ -1921,7 +1921,6 @@
           "FFlagMomentsUpdateReactionIllustrationQuality = True",
           "FFlagUserProfilePlatformProfile6 = True",
           "FFlagSavePlaceWaitsForInFlightPublish = True",
-          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01",
           "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
           "FFlagSQLiteDontFailOnSQLITEBUSY = True",
           "FIntWrapContentProviderMaxBundleCount = 64",
@@ -2020,6 +2019,7 @@
           "DFFlagWebParserEncodeInvalidJsonInfNanEvenOnSkip (True -> true)",
           "DFFlagWebParserEncodeInvalidJsonInfNanEvenOnSkipLua (True -> true)",
           "DFFlagWebParserEncodeInvalidJsonInfNanLua (True -> true)",
+          "FFlagFlagRolloutTestStaticBool14 (False -> True)",
           "FFlagExpChatTCWAllowKeyboardNav (False -> True)",
           "DFFlagAddTranslationDisplayMode (True -> false)",
           "FFlagVoiceConnectSelectorDebounce (False -> True)",
@@ -2291,42 +2291,6 @@
         ]
       }
     },
-    "zdfflagsrs4478": {
-      "PCDesktopClient": {
-        "added": [
-          "DFFlagDebugDisableRCCChannelAPIs = False",
-          "DFFlagDebugDisableRCCChannelAPIs_PlaceFilter = False;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765;16101250253;14060889642;14061345484;16566467770",
-          "DFFlagDebugEnableRCCChannelAPIs = True",
-          "DFStringChannelName = ZDFFlagSRS4478",
-          "FFlagForceEnableReportLogsButton = False",
-          "FFlagMacBackgroundDownloadUpdates2 = False"
-        ],
-        "removed": [],
-        "changed": [
-          "SFStringRCCChannelName ( -> ZDFFlagSRS4478)",
-          "FFlagUseABCEndpoint (True -> true)",
-          "DFFlagSRS4478 (True -> true)",
-          "FFlagWinBackgroundDownloadUpdates2 (True -> False)"
-        ]
-      },
-      "MacDesktopClient": {
-        "added": [
-          "DFFlagDebugDisableRCCChannelAPIs = False",
-          "DFFlagDebugDisableRCCChannelAPIs_PlaceFilter = False;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765;16101250253;14060889642;14061345484;16566467770",
-          "DFFlagDebugEnableRCCChannelAPIs = True",
-          "DFStringChannelName = ZDFFlagSRS4478",
-          "FFlagForceEnableReportLogsButton = False",
-          "FFlagWinBackgroundDownloadUpdates2 = False"
-        ],
-        "removed": [],
-        "changed": [
-          "SFStringRCCChannelName ( -> ZDFFlagSRS4478)",
-          "FFlagUseABCEndpoint (True -> true)",
-          "FFlagMacBackgroundDownloadUpdates3 (True -> False)",
-          "DFFlagSRS4478 (True -> true)"
-        ]
-      }
-    },
     "zdmctmigrateinstancenumexpecteddirectchildrcontrol": {
       "PCDesktopClient": {
         "added": [
@@ -2467,76 +2431,6 @@
         ]
       }
     },
-    "zliveforbeta": {
-      "PCDesktopClient": {
-        "added": [
-          "DFFlagBadgesWriteEnabled = True",
-          "DFFlagBadgesWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
-          "DFFlagCrossServerMessagingWriteEnabled = True",
-          "DFFlagCrossServerMessagingWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
-          "DFFlagDataStoreWriteEnabled = True",
-          "DFFlagDataStoreWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
-          "DFFlagDebugDataStoreWriteEnabled = True",
-          "DFFlagDebugDataStoreWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
-          "DFFlagDebugDisableRCCChannelAPIs = False",
-          "DFFlagDebugDisableRCCChannelAPIs_PlaceFilter = False;6873158657;6873177006;6873189348;7290670119;5064251723\n",
-          "DFFlagDebugEnableRCCChannelAPIs = True",
-          "DFFlagHttpServiceWriteEnabled = True",
-          "DFFlagHttpServiceWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
-          "DFFlagPointsWriteEnabled = True",
-          "DFFlagPointsWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
-          "DFIntRCCInstanceTrackingOnElasticSearchHundredthsPercentage = 1000",
-          "DFStringChannelName = zliveforbeta",
-          "Dummy = Dummy",
-          "FFlagForceEnableReportLogsButton = False",
-          "FFlagMacBackgroundDownloadUpdates2 = False",
-          "FFlagReplaceChannelNameForDownload = True",
-          "FlagName = FlagValue"
-        ],
-        "removed": [],
-        "changed": [
-          "DFIntCrashUploadToBacktracePercentage (5 -> 100)",
-          "DFIntPerfDataGlobalThrottleHundredthsPercent (5 -> 50)",
-          "SFStringRCCChannelName ( -> zliveforbeta)",
-          "FFlagUseABCEndpoint (True -> true)",
-          "FFlagWinBackgroundDownloadUpdates2 (True -> False)",
-          "DFIntCrashUploadToBacktraceRolloutMinimumPercentage (10 -> 100)"
-        ]
-      },
-      "MacDesktopClient": {
-        "added": [
-          "DFFlagBadgesWriteEnabled = True",
-          "DFFlagBadgesWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
-          "DFFlagCrossServerMessagingWriteEnabled = True",
-          "DFFlagCrossServerMessagingWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
-          "DFFlagDataStoreWriteEnabled = True",
-          "DFFlagDataStoreWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
-          "DFFlagDebugDataStoreWriteEnabled = True",
-          "DFFlagDebugDataStoreWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
-          "DFFlagDebugDisableRCCChannelAPIs = False",
-          "DFFlagDebugDisableRCCChannelAPIs_PlaceFilter = False;6873158657;6873177006;6873189348;7290670119;5064251723\n",
-          "DFFlagDebugEnableRCCChannelAPIs = True",
-          "DFFlagHttpServiceWriteEnabled = True",
-          "DFFlagHttpServiceWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
-          "DFFlagPointsWriteEnabled = True",
-          "DFFlagPointsWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
-          "DFIntRCCInstanceTrackingOnElasticSearchHundredthsPercentage = 1000",
-          "DFStringChannelName = zliveforbeta",
-          "Dummy = Dummy",
-          "FFlagForceEnableReportLogsButton = False",
-          "FFlagReplaceChannelNameForDownload = True",
-          "FFlagWinBackgroundDownloadUpdates2 = False",
-          "FlagName = FlagValue"
-        ],
-        "removed": [],
-        "changed": [
-          "DFIntPerfDataGlobalThrottleHundredthsPercent (5 -> 50)",
-          "SFStringRCCChannelName ( -> zliveforbeta)",
-          "FFlagUseABCEndpoint (True -> true)",
-          "FFlagMacBackgroundDownloadUpdates3 (True -> False)"
-        ]
-      }
-    },
     "zserver-low-memory-warning": {
       "PCDesktopClient": {
         "added": [
@@ -2580,82 +2474,6 @@
           "FFlagMacBackgroundDownloadUpdates3 (True -> False)"
         ]
       }
-    },
-    "ztempmigrationpropset": {
-      "PCDesktopClient": {
-        "added": [
-          "DFFlagDebugDisableRCCChannelAPIs = False",
-          "DFFlagDebugDisableRCCChannelAPIs_PlaceFilter = False;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765;16101250253;14060889642;14061345484;16566467770",
-          "DFFlagDebugEnableRCCChannelAPIs = True",
-          "DFIntTexturePackPropsetTelemetryHundredthsPercent = 10000",
-          "DFStringChannelName = ztempmigrationpropset",
-          "FFlagForceEnableReportLogsButton = False",
-          "FFlagMacBackgroundDownloadUpdates2 = False",
-          "FFlagTexturePackGameServerPropertySets = True",
-          "FFlagTexturePackShadowUploadPropertySets = true",
-          "FIntTexturePackShadowUploadPropertySetsHundredthPercent = 10000"
-        ],
-        "removed": [],
-        "changed": [
-          "SFStringRCCChannelName ( -> ztempmigrationpropset)",
-          "FFlagUseABCEndpoint (True -> true)",
-          "FFlagWinBackgroundDownloadUpdates2 (True -> False)"
-        ]
-      },
-      "MacDesktopClient": {
-        "added": [
-          "DFFlagDebugDisableRCCChannelAPIs = False",
-          "DFFlagDebugDisableRCCChannelAPIs_PlaceFilter = False;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765;16101250253;14060889642;14061345484;16566467770",
-          "DFFlagDebugEnableRCCChannelAPIs = True",
-          "DFIntTexturePackPropsetTelemetryHundredthsPercent = 10000",
-          "DFStringChannelName = ztempmigrationpropset",
-          "FFlagForceEnableReportLogsButton = False",
-          "FFlagTexturePackGameServerPropertySets = True",
-          "FFlagTexturePackShadowUploadPropertySets = true",
-          "FFlagWinBackgroundDownloadUpdates2 = False",
-          "FIntTexturePackShadowUploadPropertySetsHundredthPercent = 10000"
-        ],
-        "removed": [],
-        "changed": [
-          "SFStringRCCChannelName ( -> ztempmigrationpropset)",
-          "FFlagUseABCEndpoint (True -> true)",
-          "FFlagMacBackgroundDownloadUpdates3 (True -> False)"
-        ]
-      }
-    },
-    "ztempmigrationpropsetcontrol": {
-      "PCDesktopClient": {
-        "added": [
-          "DFFlagDebugDisableRCCChannelAPIs = False",
-          "DFFlagDebugDisableRCCChannelAPIs_PlaceFilter = False;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765;16101250253;14060889642;14061345484;16566467770",
-          "DFFlagDebugEnableRCCChannelAPIs = True",
-          "DFStringChannelName = ztempmigrationpropsetcontrol",
-          "FFlagForceEnableReportLogsButton = False",
-          "FFlagMacBackgroundDownloadUpdates2 = False"
-        ],
-        "removed": [],
-        "changed": [
-          "SFStringRCCChannelName ( -> ztempmigrationpropsetcontrol)",
-          "FFlagUseABCEndpoint (True -> true)",
-          "FFlagWinBackgroundDownloadUpdates2 (True -> False)"
-        ]
-      },
-      "MacDesktopClient": {
-        "added": [
-          "DFFlagDebugDisableRCCChannelAPIs = False",
-          "DFFlagDebugDisableRCCChannelAPIs_PlaceFilter = False;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765;16101250253;14060889642;14061345484;16566467770",
-          "DFFlagDebugEnableRCCChannelAPIs = True",
-          "DFStringChannelName = ztempmigrationpropsetcontrol",
-          "FFlagForceEnableReportLogsButton = False",
-          "FFlagWinBackgroundDownloadUpdates2 = False"
-        ],
-        "removed": [],
-        "changed": [
-          "SFStringRCCChannelName ( -> ztempmigrationpropsetcontrol)",
-          "FFlagUseABCEndpoint (True -> true)",
-          "FFlagMacBackgroundDownloadUpdates3 (True -> False)"
-        ]
-      }
     }
   },
   "github_comparison": {
@@ -2692,6 +2510,187 @@
     ],
     "only_local": [],
     "conflicts": {},
-    "since_last_push": {}
+    "since_last_push": {
+      "MacDesktopClient_PROD.json": {
+        "added": [],
+        "removed": [
+          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01"
+        ],
+        "changed": [
+          "FFlagFlagRolloutTestStaticBool14 (True -> False)"
+        ]
+      },
+      "PCDesktopClient_PROD.json": {
+        "added": [],
+        "removed": [
+          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01"
+        ],
+        "changed": [
+          "FFlagFlagRolloutTestStaticBool14 (True -> False)"
+        ]
+      },
+      "zaflag_MacDesktopClient.json": {
+        "added": [],
+        "removed": [
+          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01"
+        ],
+        "changed": [
+          "FFlagFlagRolloutTestStaticBool14 (True -> False)"
+        ]
+      },
+      "zaflag_PCDesktopClient.json": {
+        "added": [],
+        "removed": [
+          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01"
+        ],
+        "changed": [
+          "FFlagFlagRolloutTestStaticBool14 (True -> False)"
+        ]
+      },
+      "zcontrol_MacDesktopClient.json": {
+        "added": [],
+        "removed": [
+          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01"
+        ],
+        "changed": [
+          "FFlagFlagRolloutTestStaticBool14 (True -> False)"
+        ]
+      },
+      "zcontrol_PCDesktopClient.json": {
+        "added": [],
+        "removed": [
+          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01"
+        ],
+        "changed": [
+          "FFlagFlagRolloutTestStaticBool14 (True -> False)"
+        ]
+      },
+      "zdeltas-test-rollout_MacDesktopClient.json": {
+        "added": [],
+        "removed": [
+          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01"
+        ],
+        "changed": [
+          "FFlagFlagRolloutTestStaticBool14 (True -> False)"
+        ]
+      },
+      "zdeltas-test-rollout_PCDesktopClient.json": {
+        "added": [],
+        "removed": [
+          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01"
+        ],
+        "changed": [
+          "FFlagFlagRolloutTestStaticBool14 (True -> False)"
+        ]
+      },
+      "zdeltas-test-rolloutcontrol_MacDesktopClient.json": {
+        "added": [],
+        "removed": [
+          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01"
+        ],
+        "changed": [
+          "FFlagFlagRolloutTestStaticBool14 (True -> False)"
+        ]
+      },
+      "zdeltas-test-rolloutcontrol_PCDesktopClient.json": {
+        "added": [],
+        "removed": [
+          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01"
+        ],
+        "changed": [
+          "FFlagFlagRolloutTestStaticBool14 (True -> False)"
+        ]
+      },
+      "zdmctmigrateinstancenumexpecteddirectchildrcontrol_MacDesktopClient.json": {
+        "added": [],
+        "removed": [
+          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01"
+        ],
+        "changed": [
+          "FFlagFlagRolloutTestStaticBool14 (True -> False)"
+        ]
+      },
+      "zdmctmigrateinstancenumexpecteddirectchildrcontrol_PCDesktopClient.json": {
+        "added": [],
+        "removed": [
+          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01"
+        ],
+        "changed": [
+          "FFlagFlagRolloutTestStaticBool14 (True -> False)"
+        ]
+      },
+      "zdmctmigrateinstancenumexpecteddirectchildren_MacDesktopClient.json": {
+        "added": [],
+        "removed": [
+          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01"
+        ],
+        "changed": [
+          "FFlagFlagRolloutTestStaticBool14 (True -> False)"
+        ]
+      },
+      "zdmctmigrateinstancenumexpecteddirectchildren_PCDesktopClient.json": {
+        "added": [],
+        "removed": [
+          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01"
+        ],
+        "changed": [
+          "FFlagFlagRolloutTestStaticBool14 (True -> False)"
+        ]
+      },
+      "zdmctsurfacemigration_MacDesktopClient.json": {
+        "added": [],
+        "removed": [
+          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01"
+        ],
+        "changed": [
+          "FFlagFlagRolloutTestStaticBool14 (True -> False)"
+        ]
+      },
+      "zdmctsurfacemigration_PCDesktopClient.json": {
+        "added": [],
+        "removed": [
+          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01"
+        ],
+        "changed": [
+          "FFlagFlagRolloutTestStaticBool14 (True -> False)"
+        ]
+      },
+      "zdmctsurfacemigrationcontrol_MacDesktopClient.json": {
+        "added": [],
+        "removed": [
+          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01"
+        ],
+        "changed": [
+          "FFlagFlagRolloutTestStaticBool14 (True -> False)"
+        ]
+      },
+      "zdmctsurfacemigrationcontrol_PCDesktopClient.json": {
+        "added": [],
+        "removed": [
+          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01"
+        ],
+        "changed": [
+          "FFlagFlagRolloutTestStaticBool14 (True -> False)"
+        ]
+      },
+      "zserver-low-memory-warning_MacDesktopClient.json": {
+        "added": [],
+        "removed": [
+          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01"
+        ],
+        "changed": [
+          "FFlagFlagRolloutTestStaticBool14 (True -> False)"
+        ]
+      },
+      "zserver-low-memory-warning_PCDesktopClient.json": {
+        "added": [],
+        "removed": [
+          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01"
+        ],
+        "changed": [
+          "FFlagFlagRolloutTestStaticBool14 (True -> False)"
+        ]
+      }
+    }
   }
 }

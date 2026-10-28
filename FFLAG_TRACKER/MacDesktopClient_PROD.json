@@ -21355,7 +21355,7 @@
     "FFlagFlagRolloutTestStaticBool11": "True",
     "FFlagFlagRolloutTestStaticBool12": "True",
     "FFlagFlagRolloutTestStaticBool13": "True",
-    "FFlagFlagRolloutTestStaticBool14": "True",
+    "FFlagFlagRolloutTestStaticBool14": "False",
     "FFlagFlagRolloutTestStaticBool15": "True",
     "FFlagFlagRolloutTestStaticBool16": "True",
     "FFlagFlagRolloutTestStaticBool17": "True",
@@ -22662,7 +22662,6 @@
     "FFlagMomentsVideoPermissionContextFix": "True",
     "FFlagUserProfilePlatformProfile6": "True",
     "FFlagSavePlaceWaitsForInFlightPublish": "True",
-    "FFlagFlagRolloutTestStaticBool14_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01",
     "FStringAdInternalErrorCacheBackoffIxpLayer": "Ads.RewardedAds.InternalErrorBackOff",
     "FFlagRenderEnableGlobalInstancingMetal": "True",
     "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -24048,9 +24047,9 @@
     "FFlagDMRecorderRecordGuiServiceScreenContext": "True",
     "DFIntExternalIdentityDesktopBrowserOperationTimeoutSeconds": "180",
     "FFlagEnableDesktopExternalIdentity": "True",
-    "FStringFlagRepoGitHashFastString": "91992c4074b470bb5ffb5e3e5b1b5a1138212b39",
-    "DFStringFlagRepoGitHashDynamicString": "91992c4074b470bb5ffb5e3e5b1b5a1138212b39",
-    "FStringFlipTimeStampFastString": "2026-10-28T01:57:24.936Z",
-    "DFStringFlipTimeStampDynamicString": "2026-10-28T01:57:24.936Z"
+    "FStringFlagRepoGitHashFastString": "ad597e06b3f785ba0da430a6a4adfb610bcbc585",
+    "DFStringFlagRepoGitHashDynamicString": "ad597e06b3f785ba0da430a6a4adfb610bcbc585",
+    "FStringFlipTimeStampFastString": "2026-10-28T06:02:30.977Z",
+    "DFStringFlipTimeStampDynamicString": "2026-10-28T06:02:30.977Z"
   }
 }
