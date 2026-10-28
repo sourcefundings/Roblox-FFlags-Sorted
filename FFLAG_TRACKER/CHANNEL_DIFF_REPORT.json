@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28 01:16:51 GMT",
+  "generated": "2026-10-28 01:59:48 GMT",
   "channels": {
     "z1daflag": {
       "PCDesktopClient": {
@@ -221,7 +221,6 @@
           "FFlagStudioFontDialogDontUseNativeDialog = True",
           "FFlagLiveScriptingServerTextDocument2 = True",
           "FFlagEnableDesktopSsoSignupDialog = True",
-          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
           "FFlagFixCSGObjExportOffcenterMesh = True",
           "FFlagFixMakeupCreationTokenPrices = True",
           "FFlagIECCreationTelemetryUserId = True",
@@ -230,6 +229,7 @@
           "FFlagStudioPropagateUniverseLookupError = True",
           "FFlagSavePlaceWaitsForInFlightPublish = True",
           "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01",
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
           "FFlagSduiOptionSelectorAnchorTag = True",
           "FFlagFRMAddStudioQLGatesForClouds = True",
           "DFFlagFinallyRefreshStatus = True",
@@ -265,9 +265,9 @@
           "FFlagDMRecorderRecordGuiServiceScreenContext = True",
           "FFlagEnableSessionManagerEventBasedSystrayStateControl2 = True",
           "DFIntExternalIdentityDesktopBrowserOperationTimeoutSeconds = 180",
-          "FFlagEnableStrictConsoleAuthCredentialHeaders_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:44:46",
           "FFlagEnableDesktopExternalIdentity = True",
-          "FFlagEnableWindowsSystraySessionization = True"
+          "FFlagEnableWindowsSystraySessionization = True",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders = True"
         ],
         "changed": [
           "SFStringRCCChannelName ( -> Z1DAFlag)",
@@ -319,10 +319,10 @@
           "FFlagAssetProviderPrewarmADCache (False -> True)",
           "FStringAssetProviderPrewarmEnabledPlaceIds ( -> 7041939546,15101393044,104376435116540,12334109280,123720558354386,130694958210373,74853927188858,94647229517154,18799085098,13705777238,107838436017187,125488740127641,104406816691097,126424052816775,115979990526708,72317248326994,118315378611589,128095034580221,79439717806206,119455737640001,109105570579775,92247162053120,131856105585756,6153766069,79389059854988,3475397644,89967070535099,18334179599,100659280755645,93801483388308,92637789841354,18102078939,80048951661785,7243409883,2551991523,103331563595376,133473642879498,112226578490421,121500030790676,76522291725518,14564651437,6104994594,11392373641,16154918775,79393329652220,109694820409483,11158043705,16901389020,8304191830,74272604027777,124389216346675,104808235862933,17209126270,15209696999,124729731716967,85494335089965,74424504058547,129631837832236,131103239963274,76034041521581,17577256698,118998608030401,18138682962,85896571713843,124172969655058,132177827387692,109106505171077,109751495795601,100689340481763,94702395375549,14567590300,128404538075564,13384322856,120841752776030,115620466946909,126922689754590,183364845,16039690331,131117978948830,126546868403353,89293625626361,17857806871,136533956395153,121439935748881,123046810948906,6377740507,81065794749401,82983707799188,130565641176498,94495283121683,16391044128,129408497314827,140462309938712,112414322394459,135446196332870,103410145208388,4522347649,90704250333473)",
           "DFFlagDataModelAsyncContentInit (True -> false)",
-          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 644ccb8b60b5e678d4d40685aa6ffdfe69fa329a)",
-          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 644ccb8b60b5e678d4d40685aa6ffdfe69fa329a)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-26T15:58:48.000+00:00)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-26T15:58:48.000+00:00)"
+          "FStringFlagRepoGitHashFastString (91992c4074b470bb5ffb5e3e5b1b5a1138212b39 -> 644ccb8b60b5e678d4d40685aa6ffdfe69fa329a)",
+          "DFStringFlagRepoGitHashDynamicString (91992c4074b470bb5ffb5e3e5b1b5a1138212b39 -> 644ccb8b60b5e678d4d40685aa6ffdfe69fa329a)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:57:24.936Z -> 2026-10-26T15:58:48.000+00:00)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:57:24.936Z -> 2026-10-26T15:58:48.000+00:00)"
         ]
       },
       "MacDesktopClient": {
@@ -546,7 +546,6 @@
           "FFlagStudioFontDialogDontUseNativeDialog = True",
           "FFlagLiveScriptingServerTextDocument2 = True",
           "FFlagEnableDesktopSsoSignupDialog = True",
-          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
           "FFlagFixCSGObjExportOffcenterMesh = True",
           "FFlagFixMakeupCreationTokenPrices = True",
           "FFlagIECCreationTelemetryUserId = True",
@@ -555,6 +554,7 @@
           "FFlagStudioPropagateUniverseLookupError = True",
           "FFlagSavePlaceWaitsForInFlightPublish = True",
           "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01",
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
           "FFlagSduiOptionSelectorAnchorTag = True",
           "FFlagFRMAddStudioQLGatesForClouds = True",
           "DFFlagFinallyRefreshStatus = True",
@@ -639,10 +639,10 @@
           "FFlagAssetProviderPrewarmADCache (False -> True)",
           "FStringAssetProviderPrewarmEnabledPlaceIds ( -> 7041939546,15101393044,104376435116540,12334109280,123720558354386,130694958210373,74853927188858,94647229517154,18799085098,13705777238,107838436017187,125488740127641,104406816691097,126424052816775,115979990526708,72317248326994,118315378611589,128095034580221,79439717806206,119455737640001,109105570579775,92247162053120,131856105585756,6153766069,79389059854988,3475397644,89967070535099,18334179599,100659280755645,93801483388308,92637789841354,18102078939,80048951661785,7243409883,2551991523,103331563595376,133473642879498,112226578490421,121500030790676,76522291725518,14564651437,6104994594,11392373641,16154918775,79393329652220,109694820409483,11158043705,16901389020,8304191830,74272604027777,124389216346675,104808235862933,17209126270,15209696999,124729731716967,85494335089965,74424504058547,129631837832236,131103239963274,76034041521581,17577256698,118998608030401,18138682962,85896571713843,124172969655058,132177827387692,109106505171077,109751495795601,100689340481763,94702395375549,14567590300,128404538075564,13384322856,120841752776030,115620466946909,126922689754590,183364845,16039690331,131117978948830,126546868403353,89293625626361,17857806871,136533956395153,121439935748881,123046810948906,6377740507,81065794749401,82983707799188,130565641176498,94495283121683,16391044128,129408497314827,140462309938712,112414322394459,135446196332870,103410145208388,4522347649,90704250333473)",
           "DFFlagDataModelAsyncContentInit (True -> false)",
-          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 644ccb8b60b5e678d4d40685aa6ffdfe69fa329a)",
-          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 644ccb8b60b5e678d4d40685aa6ffdfe69fa329a)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-26T15:58:48.000+00:00)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-26T15:58:48.000+00:00)"
+          "FStringFlagRepoGitHashFastString (91992c4074b470bb5ffb5e3e5b1b5a1138212b39 -> 644ccb8b60b5e678d4d40685aa6ffdfe69fa329a)",
+          "DFStringFlagRepoGitHashDynamicString (91992c4074b470bb5ffb5e3e5b1b5a1138212b39 -> 644ccb8b60b5e678d4d40685aa6ffdfe69fa329a)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:57:24.936Z -> 2026-10-26T15:58:48.000+00:00)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:57:24.936Z -> 2026-10-26T15:58:48.000+00:00)"
         ]
       }
     },
@@ -1172,7 +1172,6 @@
           "FFlagStudioFontDialogDontUseNativeDialog = True",
           "FFlagLiveScriptingServerTextDocument2 = True",
           "FFlagEnableDesktopSsoSignupDialog = True",
-          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
           "FFlagFixCSGObjExportOffcenterMesh = True",
           "FFlagFixMakeupCreationTokenPrices = True",
           "FFlagIECCreationTelemetryUserId = True",
@@ -1185,6 +1184,7 @@
           "FFlagUserProfilePlatformProfile6 = True",
           "FFlagSavePlaceWaitsForInFlightPublish = True",
           "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01",
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
           "FFlagSQLiteDontFailOnSQLITEBUSY = True",
           "FIntWrapContentProviderMaxBundleCount = 64",
           "DFFlagLcCacheOptDefaultEnabled2 = False",
@@ -1281,9 +1281,9 @@
           "FFlagDMRecorderRecordGuiServiceScreenContext = True",
           "FFlagEnableSessionManagerEventBasedSystrayStateControl2 = True",
           "DFIntExternalIdentityDesktopBrowserOperationTimeoutSeconds = 180",
-          "FFlagEnableStrictConsoleAuthCredentialHeaders_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:44:46",
           "FFlagEnableDesktopExternalIdentity = True",
-          "FFlagEnableWindowsSystraySessionization = True"
+          "FFlagEnableWindowsSystraySessionization = True",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders = True"
         ],
         "changed": [
           "SFStringRCCChannelName ( -> Z1WAFlag)",
@@ -1388,10 +1388,10 @@
           "DFFlagDataModelAsyncContentInit (True -> false)",
           "FIntEnableDataModelChangeTrackingHundredthPercent_PlaceFilter (2500;8712817601;72794186691769;121844478504211;126050458756269;139094215325277;10449761463;12360882630;130818724007978;131048399685555;1962086868;3582763398;5253186791;7227293156;7237794334;7237795212;94971861814985;73956553001240;74691681039273;85395484560711;86789627188240;96802054849934;102580589030177;103521881639626;109684591839194;117134837736236;134314141048307;17516596118;86696142930150;92980558919575;97804379417079;100040622766961;105357751512007;108428559529058;110169684430399;122181485177067;128220027114734;131008473296170;134474332601640;3351674303;5918142776;12633767856;12633809000;15547586975;71775212858107;99421106727783;126851911577827;13772394625;14368557094;14732610803;14915220621;15131065025;15144787112;15185247558;15234596844;15264892126;15509350986;15517169103;15552588346;15582821022;15582823307;16044264830;16281300371;16331595046;16331596518;16331598816;16331600459;16456370330;16581637217;16581648071;17757592456;71039363739363;92458008626219;97204747083036;111661204337143;14315258385;15266870117;15772804763;16071359275;16213033715;102822770050361;109525531177846;122871537893081;131227677343500;5154858502;9786129743;18746877890;18746880008;18746890645;18746891831;18746893663;12355337193;13771457545;14195703130;15385224902;75453361115735;75012837977315;75595554329924;93411036959889;95082159892680;101521033763856;110562057660902;116669109771779;118941584817777;126722955844429;128614435234859;132203136173938;1818;92416421522960;101402127000136;108455473966865;112296196649210;2338325648;4822225642;4940687511;7097139127;7098347455;7098347570;11414445247;12770493773;12986634964;12986636453;12986638725;13415948659;13834702475;14801724413;15098628040;17685156577;17685159087;17685161741;17685164681;17685181130;93001350941802;125444254609144 -> 600;17625359962;18126510175;71874690745115;117398147513099;129604661913557;133215910299950;8712817601;72794186691769;121844478504211;126050458756269;139094215325277;10449761463;12360882630;130818724007978;131048399685555;1962086868;3582763398;5253186791;7227293156;7237794334;7237795212;94971861814985;9391468976;17016840407;73956553001240;74691681039273;85395484560711;86789627188240;96802054849934;102580589030177;103521881639626;109684591839194;117134837736236;134314141048307;17516596118;86696142930150;92980558919575;97804379417079;100040622766961;105357751512007;108428559529058;110169684430399;122181485177067;128220027114734;131008473296170;134474332601640;3351674303;5918142776;12633767856;12633809000;15547586975;71775212858107;99421106727783;126851911577827;13772394625;14368557094;14732610803;14915220621;15131065025;15144787112;15185247558;15234596844;15264892126;15509350986;15517169103;15552588346;15582821022;15582823307;16044264830;16281300371;16331595046;16331596518;16331598816;16331600459;16456370330;16581637217;16581648071;17757592456;71039363739363;92458008626219;97204747083036;111661204337143;14315258385;15266870117;15772804763;16071359275;16213033715;102822770050361;109525531177846;122871537893081;131227677343500;5154858502;9786129743;18746877890;18746880008;18746890645;18746891831;18746893663;12355337193;13771457545;14195703130;15385224902;71613907306319;75453361115735;75012837977315;75595554329924;93411036959889;95082159892680;101521033763856;110562057660902;116669109771779;118941584817777;126722955844429;128614435234859;132203136173938;1818;92416421522960;101402127000136;108455473966865;112296196649210;2338325648;4822225642;4940687511;7097139127;7098347455;7098347570;11414445247;12770493773;12986634964;12986636453;12986638725;13415948659;13834702475;14801724413;15098628040;17685156577;17685159087;17685161741;17685164681;17685181130;93001350941802;125444254609144)",
           "DFIntPCGDKInitializationErrorThrottleHundredthsPercent (500 -> 100)",
-          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 252bfeb379e47807d777edd624c71f92a9052680)",
-          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 252bfeb379e47807d777edd624c71f92a9052680)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-20T01:56:21.000+00:00)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-20T01:56:21.000+00:00)"
+          "FStringFlagRepoGitHashFastString (91992c4074b470bb5ffb5e3e5b1b5a1138212b39 -> 252bfeb379e47807d777edd624c71f92a9052680)",
+          "DFStringFlagRepoGitHashDynamicString (91992c4074b470bb5ffb5e3e5b1b5a1138212b39 -> 252bfeb379e47807d777edd624c71f92a9052680)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:57:24.936Z -> 2026-10-20T01:56:21.000+00:00)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:57:24.936Z -> 2026-10-20T01:56:21.000+00:00)"
         ]
       },
       "MacDesktopClient": {
@@ -1922,7 +1922,6 @@
           "FFlagStudioFontDialogDontUseNativeDialog = True",
           "FFlagLiveScriptingServerTextDocument2 = True",
           "FFlagEnableDesktopSsoSignupDialog = True",
-          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
           "FFlagFixCSGObjExportOffcenterMesh = True",
           "FFlagFixMakeupCreationTokenPrices = True",
           "FFlagIECCreationTelemetryUserId = True",
@@ -1935,6 +1934,7 @@
           "FFlagUserProfilePlatformProfile6 = True",
           "FFlagSavePlaceWaitsForInFlightPublish = True",
           "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01",
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
           "FFlagSQLiteDontFailOnSQLITEBUSY = True",
           "FIntWrapContentProviderMaxBundleCount = 64",
           "DFFlagLcCacheOptDefaultEnabled2 = False",
@@ -2122,10 +2122,10 @@
           "FFlagEnableSessionManagerEventBasedSystrayStateControl2 (False -> True)",
           "DFFlagDataModelAsyncContentInit (True -> false)",
           "FIntEnableDataModelChangeTrackingHundredthPercent_PlaceFilter (2500;8712817601;72794186691769;121844478504211;126050458756269;139094215325277;10449761463;12360882630;130818724007978;131048399685555;1962086868;3582763398;5253186791;7227293156;7237794334;7237795212;94971861814985;73956553001240;74691681039273;85395484560711;86789627188240;96802054849934;102580589030177;103521881639626;109684591839194;117134837736236;134314141048307;17516596118;86696142930150;92980558919575;97804379417079;100040622766961;105357751512007;108428559529058;110169684430399;122181485177067;128220027114734;131008473296170;134474332601640;3351674303;5918142776;12633767856;12633809000;15547586975;71775212858107;99421106727783;126851911577827;13772394625;14368557094;14732610803;14915220621;15131065025;15144787112;15185247558;15234596844;15264892126;15509350986;15517169103;15552588346;15582821022;15582823307;16044264830;16281300371;16331595046;16331596518;16331598816;16331600459;16456370330;16581637217;16581648071;17757592456;71039363739363;92458008626219;97204747083036;111661204337143;14315258385;15266870117;15772804763;16071359275;16213033715;102822770050361;109525531177846;122871537893081;131227677343500;5154858502;9786129743;18746877890;18746880008;18746890645;18746891831;18746893663;12355337193;13771457545;14195703130;15385224902;75453361115735;75012837977315;75595554329924;93411036959889;95082159892680;101521033763856;110562057660902;116669109771779;118941584817777;126722955844429;128614435234859;132203136173938;1818;92416421522960;101402127000136;108455473966865;112296196649210;2338325648;4822225642;4940687511;7097139127;7098347455;7098347570;11414445247;12770493773;12986634964;12986636453;12986638725;13415948659;13834702475;14801724413;15098628040;17685156577;17685159087;17685161741;17685164681;17685181130;93001350941802;125444254609144 -> 600;17625359962;18126510175;71874690745115;117398147513099;129604661913557;133215910299950;8712817601;72794186691769;121844478504211;126050458756269;139094215325277;10449761463;12360882630;130818724007978;131048399685555;1962086868;3582763398;5253186791;7227293156;7237794334;7237795212;94971861814985;9391468976;17016840407;73956553001240;74691681039273;85395484560711;86789627188240;96802054849934;102580589030177;103521881639626;109684591839194;117134837736236;134314141048307;17516596118;86696142930150;92980558919575;97804379417079;100040622766961;105357751512007;108428559529058;110169684430399;122181485177067;128220027114734;131008473296170;134474332601640;3351674303;5918142776;12633767856;12633809000;15547586975;71775212858107;99421106727783;126851911577827;13772394625;14368557094;14732610803;14915220621;15131065025;15144787112;15185247558;15234596844;15264892126;15509350986;15517169103;15552588346;15582821022;15582823307;16044264830;16281300371;16331595046;16331596518;16331598816;16331600459;16456370330;16581637217;16581648071;17757592456;71039363739363;92458008626219;97204747083036;111661204337143;14315258385;15266870117;15772804763;16071359275;16213033715;102822770050361;109525531177846;122871537893081;131227677343500;5154858502;9786129743;18746877890;18746880008;18746890645;18746891831;18746893663;12355337193;13771457545;14195703130;15385224902;71613907306319;75453361115735;75012837977315;75595554329924;93411036959889;95082159892680;101521033763856;110562057660902;116669109771779;118941584817777;126722955844429;128614435234859;132203136173938;1818;92416421522960;101402127000136;108455473966865;112296196649210;2338325648;4822225642;4940687511;7097139127;7098347455;7098347570;11414445247;12770493773;12986634964;12986636453;12986638725;13415948659;13834702475;14801724413;15098628040;17685156577;17685159087;17685161741;17685164681;17685181130;93001350941802;125444254609144)",
-          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 252bfeb379e47807d777edd624c71f92a9052680)",
-          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 252bfeb379e47807d777edd624c71f92a9052680)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-20T01:56:21.000+00:00)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-20T01:56:21.000+00:00)"
+          "FStringFlagRepoGitHashFastString (91992c4074b470bb5ffb5e3e5b1b5a1138212b39 -> 252bfeb379e47807d777edd624c71f92a9052680)",
+          "DFStringFlagRepoGitHashDynamicString (91992c4074b470bb5ffb5e3e5b1b5a1138212b39 -> 252bfeb379e47807d777edd624c71f92a9052680)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:57:24.936Z -> 2026-10-20T01:56:21.000+00:00)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:57:24.936Z -> 2026-10-20T01:56:21.000+00:00)"
         ]
       }
     },
@@ -2824,722 +2824,482 @@
     "since_last_push": {
       "MacDesktopClient_PROD.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "PCDesktopClient_PROD.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders = True"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:44:46"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zaflag_MacDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zaflag_PCDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders = True"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:44:46"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zbeta_MacDesktopClient.json": {
         "added": [
-          "DFFlagWMSRemoveInteriorBidirectionalRays = True",
-          "FFlagDetachedPlaybackDataEnabled = True",
-          "FFlagDisableFrustumInTeamCreate = True",
-          "FFlagSduiOptionSelectorAnchorTag_IXP = 1;PlayerApp.HomePage.UX.WholePageRanking;P13N.Home.ContinuePlaying.Tabs;1157171441;flagbank",
-          "FFlagSduiOptionSelectorHeaderComponent_IXP = 1;PlayerApp.HomePage.UX.WholePageRanking;P13N.Home.ContinuePlaying.Tabs;1157171441;flagbank",
-          "FFlagUserDoubleJumpButtonFix = True",
-          "DFFlagUseGroundControllerTurnPDStep = True",
-          "FFlagUserAbilitiesUserInterfaceB = True",
-          "FFlagGoogleAppleSsoDesktop = True",
-          "FFlagDMCTMigrateBasePartSurfaces = True",
-          "FFlagEnableNewReportFlowGameTile = True",
-          "FFlagBuildExperienceAnalyticsBreakdowns = True",
-          "FFlagFoundationEducationalTooltipMinMediaWidth3 = True",
-          "FFlagAnimGraphUI_ClearStalePreviewDebugData = True",
-          "FFlagEnableGmaSdkControllerImpl = True",
-          "FFlagFixMorePageLogOutCutOff_IXP = 1;UniversalApp.UnifyShortcutBar;UnifyShortcutbar;244050677;dev_controlled",
-          "FFlagEnableStickyShortcutBarOnAllPlatforms_IXP = 1;UniversalApp.UnifyShortcutBar;UnifyShortcutbar;244050677;dev_controlled",
-          "FFlagEnableStickyShortcutBarOnAllPlatformsIxpEnabled_IXP = 1;UniversalApp.UnifyShortcutBar;UnifyShortcutbar;244050677;dev_controlled",
-          "FFlagUnifyShortcutBarFixImpressions_IXP = 1;UniversalApp.UnifyShortcutBar;UnifyShortcutbar;244050677;dev_controlled",
-          "DFFlagEnableTopicBasedRealtimeNotifications3 = True",
-          "FFlagStudioFontDialogDontUseNativeDialog = True",
-          "FFlagLiveScriptingServerTextDocument2 = True",
-          "FFlagEnableDesktopSsoSignupDialog = True",
-          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
-          "FFlagFixCSGObjExportOffcenterMesh = True",
-          "FFlagFixMakeupCreationTokenPrices = True",
-          "FFlagIECCreationTelemetryUserId = True",
-          "FFlagMakeupCreationTelemetryAssetTypes = True",
-          "FFlagPromptCreateMakeupAsyncEnabled6 = True",
-          "FFlagStudioPropagateUniverseLookupError = True",
-          "FFlagSavePlaceWaitsForInFlightPublish = True",
-          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01",
-          "FFlagAmpV2WizardVerificationDiagnostics = True",
-          "FFlagBuildExperienceDisableNonPublicStats = True",
-          "FFlagAppChatPlusReferralLargerPictogram = True",
-          "FFlagBuildAnalyticsGoals2 = True",
-          "DFIntExternalIdentityDesktopBrowserOperationTimeoutSeconds = 180",
-          "FFlagEnableDesktopExternalIdentity = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff"
         ],
         "removed": [
-          "DFStringLoadTestName_PlaceFilter = get_product_info_load_test_simple;109983668079237;96342491571673",
-          "FFlagDetachedPlaybackDataEnabled_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T19:57:23",
-          "FFlagDisableFrustumInTeamCreate_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:01:35",
-          "FFlagUserDoubleJumpButtonFix_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:19:32",
-          "FFlagUserAbilitiesUserInterfaceB_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:21:13",
-          "FFlagGoogleAppleSsoDesktop_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:28:24",
-          "FFlagDMCTMigrateBasePartSurfaces_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:36:23",
-          "DFFlagWMSRemoveInteriorBidirectionalRays_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-10-27T20:48:21",
-          "FFlagEnableNewReportFlowGameTile_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:49:08",
-          "FFlagFoundationEducationalTooltipMinMediaWidth3_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1735700137;2026-10-27T20:55:28",
-          "FFlagBuildExperienceAnalyticsBreakdowns_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:56:44",
-          "FFlagEnableGmaSdkControllerImpl_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:05:55",
-          "FFlagAnimGraphUI_ClearStalePreviewDebugData_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:10:00",
-          "DFFlagUseGroundControllerTurnPDStep_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-10-27T21:19:04",
-          "FFlagLiveScriptingServerTextDocument2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:30:59",
-          "FFlagStudioFontDialogDontUseNativeDialog_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:33:13",
-          "FFlagMigrateFriendshipStatusesPYMK_v1_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:34:43",
-          "FFlagScriptEditorEnsureAllChecksHaveTimeouts_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:36:53",
-          "FFlagMigrateFriendshipStatusesUserSearch_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:37:50",
-          "FFlagEnableDesktopSsoSignupDialog_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:41:16",
-          "FFlagAmpV2WizardVerificationDiagnostics_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:57:22",
-          "FFlagEnableDesktopExternalIdentity_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:41:49",
-          "DFIntExternalIdentityDesktopBrowserOperationTimeoutSeconds_Staged = 180;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-10-27T21:42:15"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32"
         ],
         "changed": [
-          "FFlagMigrateFriendshipStatusesUserSearch (False -> True)",
-          "FFlagMigrateFriendshipStatusesPYMK_v1 (False -> True)",
-          "FFlagMigrateFriendshipStatusesRemainingActions (False -> True)",
-          "FFlagAppChatMigrateFriendshipStatuses (False -> True)",
-          "FIntMigrateComponentManagerToRuntimeInjectorHundredthPercent (1000 -> 10000)",
-          "FStringFlagRepoGitHashFastString (d1d50b20a23bd59fc30653d2c33b6c112459baf2 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (d1d50b20a23bd59fc30653d2c33b6c112459baf2 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-27T21:45:25.546Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-27T21:45:25.546Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zbeta_PCDesktopClient.json": {
         "added": [
-          "DFFlagWMSRemoveInteriorBidirectionalRays = True",
-          "FFlagDetachedPlaybackDataEnabled = True",
-          "FFlagDisableFrustumInTeamCreate = True",
-          "FFlagSduiOptionSelectorAnchorTag_IXP = 1;PlayerApp.HomePage.UX.WholePageRanking;P13N.Home.ContinuePlaying.Tabs;1157171441;flagbank",
-          "FFlagSduiOptionSelectorHeaderComponent_IXP = 1;PlayerApp.HomePage.UX.WholePageRanking;P13N.Home.ContinuePlaying.Tabs;1157171441;flagbank",
-          "FFlagUserDoubleJumpButtonFix = True",
-          "DFFlagUseGroundControllerTurnPDStep = True",
-          "FFlagUserAbilitiesUserInterfaceB = True",
-          "FFlagGoogleAppleSsoDesktop = True",
-          "FFlagDMCTMigrateBasePartSurfaces = True",
-          "FFlagEnableNewReportFlowGameTile = True",
-          "FFlagBuildExperienceAnalyticsBreakdowns = True",
-          "FFlagFoundationEducationalTooltipMinMediaWidth3 = True",
-          "FFlagAnimGraphUI_ClearStalePreviewDebugData = True",
-          "FFlagEnableGmaSdkControllerImpl = True",
-          "FFlagFixMorePageLogOutCutOff_IXP = 1;UniversalApp.UnifyShortcutBar;UnifyShortcutbar;244050677;dev_controlled",
-          "FFlagEnableStickyShortcutBarOnAllPlatforms_IXP = 1;UniversalApp.UnifyShortcutBar;UnifyShortcutbar;244050677;dev_controlled",
-          "FFlagEnableStickyShortcutBarOnAllPlatformsIxpEnabled_IXP = 1;UniversalApp.UnifyShortcutBar;UnifyShortcutbar;244050677;dev_controlled",
-          "FFlagUnifyShortcutBarFixImpressions_IXP = 1;UniversalApp.UnifyShortcutBar;UnifyShortcutbar;244050677;dev_controlled",
-          "DFFlagEnableTopicBasedRealtimeNotifications3 = True",
-          "FFlagStudioFontDialogDontUseNativeDialog = True",
-          "FFlagLiveScriptingServerTextDocument2 = True",
-          "FFlagEnableDesktopSsoSignupDialog = True",
-          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
-          "FFlagFixCSGObjExportOffcenterMesh = True",
-          "FFlagFixMakeupCreationTokenPrices = True",
-          "FFlagIECCreationTelemetryUserId = True",
-          "FFlagMakeupCreationTelemetryAssetTypes = True",
-          "FFlagPromptCreateMakeupAsyncEnabled6 = True",
-          "FFlagStudioPropagateUniverseLookupError = True",
-          "FFlagSavePlaceWaitsForInFlightPublish = True",
-          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01",
-          "FFlagAmpV2WizardVerificationDiagnostics = True",
-          "FFlagBuildExperienceDisableNonPublicStats = True",
-          "FFlagAppChatPlusReferralLargerPictogram = True",
-          "FFlagBuildAnalyticsGoals2 = True",
-          "FFlagEnableSessionManagerEventBasedSystrayStateControl2 = True",
-          "DFIntExternalIdentityDesktopBrowserOperationTimeoutSeconds = 180",
-          "FFlagEnableStrictConsoleAuthCredentialHeaders_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:44:46",
-          "FFlagEnableDesktopExternalIdentity = True",
-          "FFlagEnableWindowsSystraySessionization = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders = True"
         ],
         "removed": [
-          "DFStringLoadTestName_PlaceFilter = get_product_info_load_test_simple;109983668079237;96342491571673",
-          "FFlagDetachedPlaybackDataEnabled_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T19:57:23",
-          "FFlagDisableFrustumInTeamCreate_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:01:35",
-          "FFlagUserDoubleJumpButtonFix_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:19:32",
-          "FFlagUserAbilitiesUserInterfaceB_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:21:13",
-          "FFlagGoogleAppleSsoDesktop_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:28:24",
-          "FFlagDMCTMigrateBasePartSurfaces_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:36:23",
-          "DFFlagWMSRemoveInteriorBidirectionalRays_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-10-27T20:48:21",
-          "FFlagEnableNewReportFlowGameTile_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:49:08",
-          "FFlagFoundationEducationalTooltipMinMediaWidth3_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1735700137;2026-10-27T20:55:28",
-          "FFlagBuildExperienceAnalyticsBreakdowns_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:56:44",
-          "FFlagEnableGmaSdkControllerImpl_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:05:55",
-          "FFlagAnimGraphUI_ClearStalePreviewDebugData_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:10:00",
-          "DFFlagUseGroundControllerTurnPDStep_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-10-27T21:19:04",
-          "FFlagLiveScriptingServerTextDocument2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:30:59",
-          "FFlagStudioFontDialogDontUseNativeDialog_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:33:13",
-          "FFlagMigrateFriendshipStatusesPYMK_v1_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:34:43",
-          "FFlagScriptEditorEnsureAllChecksHaveTimeouts_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:36:53",
-          "FFlagMigrateFriendshipStatusesUserSearch_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:37:50",
-          "FFlagEnableDesktopSsoSignupDialog_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:41:16",
-          "FFlagAmpV2WizardVerificationDiagnostics_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:57:22",
-          "FFlagEnableSessionManagerEventBasedSystrayStateControl2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T19:58:47",
-          "FFlagEnableDesktopExternalIdentity_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:41:49",
-          "DFIntExternalIdentityDesktopBrowserOperationTimeoutSeconds_Staged = 180;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-10-27T21:42:15"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:44:46"
         ],
         "changed": [
-          "FFlagMigrateFriendshipStatusesUserSearch (False -> True)",
-          "FFlagMigrateFriendshipStatusesPYMK_v1 (False -> True)",
-          "FFlagMigrateFriendshipStatusesRemainingActions (False -> True)",
-          "FFlagAppChatMigrateFriendshipStatuses (False -> True)",
-          "FIntMigrateComponentManagerToRuntimeInjectorHundredthPercent (1000 -> 10000)",
-          "FStringFlagRepoGitHashFastString (d1d50b20a23bd59fc30653d2c33b6c112459baf2 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (d1d50b20a23bd59fc30653d2c33b6c112459baf2 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-27T21:45:25.546Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-27T21:45:25.546Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zcontrol_MacDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zcontrol_PCDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders = True"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:44:46"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zdeltas-test-rollout_MacDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zdeltas-test-rollout_PCDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders = True"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:44:46"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zdeltas-test-rolloutcontrol_MacDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zdeltas-test-rolloutcontrol_PCDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders = True"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:44:46"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zdfflagsrs4478_MacDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff"
         ],
         "removed": [
-          "FIntMigrateComponentManagerToRuntimeInjectorHundredthPercent_Staged = 10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T22:56:53",
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32"
         ],
         "changed": [
-          "FIntMigrateComponentManagerToRuntimeInjectorHundredthPercent (1000 -> 10000)",
-          "FStringFlagRepoGitHashFastString (bc84bc9b10da0999ece455ffef265cadee2cedda -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (bc84bc9b10da0999ece455ffef265cadee2cedda -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T00:52:35.414Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T00:52:35.414Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zdfflagsrs4478_PCDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders = True"
         ],
         "removed": [
-          "FIntMigrateComponentManagerToRuntimeInjectorHundredthPercent_Staged = 10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T22:56:53",
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:44:46"
         ],
         "changed": [
-          "FIntMigrateComponentManagerToRuntimeInjectorHundredthPercent (1000 -> 10000)",
-          "FStringFlagRepoGitHashFastString (bc84bc9b10da0999ece455ffef265cadee2cedda -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (bc84bc9b10da0999ece455ffef265cadee2cedda -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T00:52:35.414Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T00:52:35.414Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zdfflagsrs4478control_MacDesktopClient.json": {
         "added": [
-          "DFFlagWMSRemoveInteriorBidirectionalRays = True",
-          "FFlagDetachedPlaybackDataEnabled = True",
-          "FFlagDisableFrustumInTeamCreate = True",
-          "FFlagSduiOptionSelectorAnchorTag_IXP = 1;PlayerApp.HomePage.UX.WholePageRanking;P13N.Home.ContinuePlaying.Tabs;1157171441;flagbank",
-          "FFlagSduiOptionSelectorHeaderComponent_IXP = 1;PlayerApp.HomePage.UX.WholePageRanking;P13N.Home.ContinuePlaying.Tabs;1157171441;flagbank",
-          "FFlagUserDoubleJumpButtonFix = True",
-          "DFFlagUseGroundControllerTurnPDStep = True",
-          "FFlagUserAbilitiesUserInterfaceB = True",
-          "FFlagGoogleAppleSsoDesktop = True",
-          "FFlagDMCTMigrateBasePartSurfaces = True",
-          "FFlagEnableNewReportFlowGameTile = True",
-          "FFlagBuildExperienceAnalyticsBreakdowns = True",
-          "FFlagFoundationEducationalTooltipMinMediaWidth3 = True",
-          "FFlagAnimGraphUI_ClearStalePreviewDebugData = True",
-          "FFlagEnableGmaSdkControllerImpl = True",
-          "FFlagFixMorePageLogOutCutOff_IXP = 1;UniversalApp.UnifyShortcutBar;UnifyShortcutbar;244050677;dev_controlled",
-          "FFlagEnableStickyShortcutBarOnAllPlatforms_IXP = 1;UniversalApp.UnifyShortcutBar;UnifyShortcutbar;244050677;dev_controlled",
-          "FFlagEnableStickyShortcutBarOnAllPlatformsIxpEnabled_IXP = 1;UniversalApp.UnifyShortcutBar;UnifyShortcutbar;244050677;dev_controlled",
-          "FFlagUnifyShortcutBarFixImpressions_IXP = 1;UniversalApp.UnifyShortcutBar;UnifyShortcutbar;244050677;dev_controlled",
-          "DFFlagEnableTopicBasedRealtimeNotifications3 = True",
-          "FFlagStudioFontDialogDontUseNativeDialog = True",
-          "FFlagLiveScriptingServerTextDocument2 = True",
-          "FFlagEnableDesktopSsoSignupDialog = True",
-          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
-          "FFlagFixCSGObjExportOffcenterMesh = True",
-          "FFlagFixMakeupCreationTokenPrices = True",
-          "FFlagIECCreationTelemetryUserId = True",
-          "FFlagMakeupCreationTelemetryAssetTypes = True",
-          "FFlagPromptCreateMakeupAsyncEnabled6 = True",
-          "FFlagStudioPropagateUniverseLookupError = True",
-          "FFlagSavePlaceWaitsForInFlightPublish = True",
-          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01",
-          "FFlagAmpV2WizardVerificationDiagnostics = True",
-          "FFlagBuildExperienceDisableNonPublicStats = True",
-          "FFlagAppChatPlusReferralLargerPictogram = True",
-          "FFlagBuildAnalyticsGoals2 = True",
-          "DFIntExternalIdentityDesktopBrowserOperationTimeoutSeconds = 180",
-          "FFlagEnableDesktopExternalIdentity = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff"
         ],
         "removed": [
-          "DFStringLoadTestName_PlaceFilter = get_product_info_load_test_simple;109983668079237;96342491571673",
-          "FFlagDetachedPlaybackDataEnabled_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T19:57:23",
-          "FFlagDisableFrustumInTeamCreate_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:01:35",
-          "FFlagUserDoubleJumpButtonFix_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:19:32",
-          "FFlagUserAbilitiesUserInterfaceB_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:21:13",
-          "FFlagGoogleAppleSsoDesktop_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:28:24",
-          "FFlagDMCTMigrateBasePartSurfaces_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:36:23",
-          "DFFlagWMSRemoveInteriorBidirectionalRays_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-10-27T20:48:21",
-          "FFlagEnableNewReportFlowGameTile_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:49:08",
-          "FFlagFoundationEducationalTooltipMinMediaWidth3_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1735700137;2026-10-27T20:55:28",
-          "FFlagBuildExperienceAnalyticsBreakdowns_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:56:44",
-          "FFlagEnableGmaSdkControllerImpl_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:05:55",
-          "FFlagAnimGraphUI_ClearStalePreviewDebugData_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:10:00",
-          "DFFlagUseGroundControllerTurnPDStep_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-10-27T21:19:04",
-          "FFlagLiveScriptingServerTextDocument2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:30:59",
-          "FFlagStudioFontDialogDontUseNativeDialog_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:33:13",
-          "FFlagMigrateFriendshipStatusesPYMK_v1_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:34:43",
-          "FFlagScriptEditorEnsureAllChecksHaveTimeouts_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:36:53",
-          "FFlagMigrateFriendshipStatusesUserSearch_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:37:50",
-          "FFlagEnableDesktopSsoSignupDialog_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:41:16",
-          "FFlagAmpV2WizardVerificationDiagnostics_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:57:22",
-          "FFlagEnableDesktopExternalIdentity_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:41:49",
-          "DFIntExternalIdentityDesktopBrowserOperationTimeoutSeconds_Staged = 180;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-10-27T21:42:15"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32"
         ],
         "changed": [
-          "FFlagMigrateFriendshipStatusesUserSearch (False -> True)",
-          "FFlagMigrateFriendshipStatusesPYMK_v1 (False -> True)",
-          "FFlagMigrateFriendshipStatusesRemainingActions (False -> True)",
-          "FFlagAppChatMigrateFriendshipStatuses (False -> True)",
-          "FIntMigrateComponentManagerToRuntimeInjectorHundredthPercent (1000 -> 10000)",
-          "FStringFlagRepoGitHashFastString (d1d50b20a23bd59fc30653d2c33b6c112459baf2 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (d1d50b20a23bd59fc30653d2c33b6c112459baf2 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-27T21:45:25.546Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-27T21:45:25.546Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zdfflagsrs4478control_PCDesktopClient.json": {
         "added": [
-          "DFFlagWMSRemoveInteriorBidirectionalRays = True",
-          "FFlagDetachedPlaybackDataEnabled = True",
-          "FFlagDisableFrustumInTeamCreate = True",
-          "FFlagSduiOptionSelectorAnchorTag_IXP = 1;PlayerApp.HomePage.UX.WholePageRanking;P13N.Home.ContinuePlaying.Tabs;1157171441;flagbank",
-          "FFlagSduiOptionSelectorHeaderComponent_IXP = 1;PlayerApp.HomePage.UX.WholePageRanking;P13N.Home.ContinuePlaying.Tabs;1157171441;flagbank",
-          "FFlagUserDoubleJumpButtonFix = True",
-          "DFFlagUseGroundControllerTurnPDStep = True",
-          "FFlagUserAbilitiesUserInterfaceB = True",
-          "FFlagGoogleAppleSsoDesktop = True",
-          "FFlagDMCTMigrateBasePartSurfaces = True",
-          "FFlagEnableNewReportFlowGameTile = True",
-          "FFlagBuildExperienceAnalyticsBreakdowns = True",
-          "FFlagFoundationEducationalTooltipMinMediaWidth3 = True",
-          "FFlagAnimGraphUI_ClearStalePreviewDebugData = True",
-          "FFlagEnableGmaSdkControllerImpl = True",
-          "FFlagFixMorePageLogOutCutOff_IXP = 1;UniversalApp.UnifyShortcutBar;UnifyShortcutbar;244050677;dev_controlled",
-          "FFlagEnableStickyShortcutBarOnAllPlatforms_IXP = 1;UniversalApp.UnifyShortcutBar;UnifyShortcutbar;244050677;dev_controlled",
-          "FFlagEnableStickyShortcutBarOnAllPlatformsIxpEnabled_IXP = 1;UniversalApp.UnifyShortcutBar;UnifyShortcutbar;244050677;dev_controlled",
-          "FFlagUnifyShortcutBarFixImpressions_IXP = 1;UniversalApp.UnifyShortcutBar;UnifyShortcutbar;244050677;dev_controlled",
-          "DFFlagEnableTopicBasedRealtimeNotifications3 = True",
-          "FFlagStudioFontDialogDontUseNativeDialog = True",
-          "FFlagLiveScriptingServerTextDocument2 = True",
-          "FFlagEnableDesktopSsoSignupDialog = True",
-          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
-          "FFlagFixCSGObjExportOffcenterMesh = True",
-          "FFlagFixMakeupCreationTokenPrices = True",
-          "FFlagIECCreationTelemetryUserId = True",
-          "FFlagMakeupCreationTelemetryAssetTypes = True",
-          "FFlagPromptCreateMakeupAsyncEnabled6 = True",
-          "FFlagStudioPropagateUniverseLookupError = True",
-          "FFlagSavePlaceWaitsForInFlightPublish = True",
-          "FFlagFlagRolloutTestStaticBool14_Staged = False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-28T00:44:01",
-          "FFlagAmpV2WizardVerificationDiagnostics = True",
-          "FFlagBuildExperienceDisableNonPublicStats = True",
-          "FFlagAppChatPlusReferralLargerPictogram = True",
-          "FFlagBuildAnalyticsGoals2 = True",
-          "FFlagEnableSessionManagerEventBasedSystrayStateControl2 = True",
-          "DFIntExternalIdentityDesktopBrowserOperationTimeoutSeconds = 180",
-          "FFlagEnableStrictConsoleAuthCredentialHeaders_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:44:46",
-          "FFlagEnableDesktopExternalIdentity = True",
-          "FFlagEnableWindowsSystraySessionization = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders = True"
         ],
         "removed": [
-          "DFStringLoadTestName_PlaceFilter = get_product_info_load_test_simple;109983668079237;96342491571673",
-          "FFlagDetachedPlaybackDataEnabled_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T19:57:23",
-          "FFlagDisableFrustumInTeamCreate_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:01:35",
-          "FFlagUserDoubleJumpButtonFix_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:19:32",
-          "FFlagUserAbilitiesUserInterfaceB_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:21:13",
-          "FFlagGoogleAppleSsoDesktop_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:28:24",
-          "FFlagDMCTMigrateBasePartSurfaces_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:36:23",
-          "DFFlagWMSRemoveInteriorBidirectionalRays_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-10-27T20:48:21",
-          "FFlagEnableNewReportFlowGameTile_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:49:08",
-          "FFlagFoundationEducationalTooltipMinMediaWidth3_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1735700137;2026-10-27T20:55:28",
-          "FFlagBuildExperienceAnalyticsBreakdowns_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:56:44",
-          "FFlagEnableGmaSdkControllerImpl_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:05:55",
-          "FFlagAnimGraphUI_ClearStalePreviewDebugData_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:10:00",
-          "DFFlagUseGroundControllerTurnPDStep_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-10-27T21:19:04",
-          "FFlagLiveScriptingServerTextDocument2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:30:59",
-          "FFlagStudioFontDialogDontUseNativeDialog_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:33:13",
-          "FFlagMigrateFriendshipStatusesPYMK_v1_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:34:43",
-          "FFlagScriptEditorEnsureAllChecksHaveTimeouts_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:36:53",
-          "FFlagMigrateFriendshipStatusesUserSearch_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:37:50",
-          "FFlagEnableDesktopSsoSignupDialog_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:41:16",
-          "FFlagAmpV2WizardVerificationDiagnostics_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T20:57:22",
-          "FFlagEnableSessionManagerEventBasedSystrayStateControl2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T19:58:47",
-          "FFlagEnableDesktopExternalIdentity_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T21:41:49",
-          "DFIntExternalIdentityDesktopBrowserOperationTimeoutSeconds_Staged = 180;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-10-27T21:42:15"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:44:46"
         ],
         "changed": [
-          "FFlagMigrateFriendshipStatusesUserSearch (False -> True)",
-          "FFlagMigrateFriendshipStatusesPYMK_v1 (False -> True)",
-          "FFlagMigrateFriendshipStatusesRemainingActions (False -> True)",
-          "FFlagAppChatMigrateFriendshipStatuses (False -> True)",
-          "FIntMigrateComponentManagerToRuntimeInjectorHundredthPercent (1000 -> 10000)",
-          "FStringFlagRepoGitHashFastString (d1d50b20a23bd59fc30653d2c33b6c112459baf2 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (d1d50b20a23bd59fc30653d2c33b6c112459baf2 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-27T21:45:25.546Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-27T21:45:25.546Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zdmctmigrateinstancenumexpecteddirectchildrcontrol_MacDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zdmctmigrateinstancenumexpecteddirectchildrcontrol_PCDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders = True"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:44:46"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zdmctmigrateinstancenumexpecteddirectchildren_MacDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zdmctmigrateinstancenumexpecteddirectchildren_PCDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders = True"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:44:46"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zdmctsurfacemigration_MacDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zdmctsurfacemigration_PCDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders = True"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:44:46"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zdmctsurfacemigrationcontrol_MacDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zdmctsurfacemigrationcontrol_PCDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders = True"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:44:46"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zliveforbeta_MacDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zliveforbeta_PCDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders = True"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:44:46"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zserver-low-memory-warning_MacDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "zserver-low-memory-warning_PCDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders = True"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:44:46"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "ztempmigrationpropset_MacDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "ztempmigrationpropset_PCDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders = True"
         ],
         "removed": [
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:44:46"
         ],
         "changed": [
-          "FStringFlagRepoGitHashFastString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (06c500fa14e3b1a53b1166a360803a3631ef1057 -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T01:02:35.215Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "ztempmigrationpropsetcontrol_MacDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff"
         ],
         "removed": [
-          "FIntMigrateComponentManagerToRuntimeInjectorHundredthPercent_Staged = 10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T22:56:53",
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32"
         ],
         "changed": [
-          "FIntMigrateComponentManagerToRuntimeInjectorHundredthPercent (1000 -> 10000)",
-          "FStringFlagRepoGitHashFastString (bc84bc9b10da0999ece455ffef265cadee2cedda -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (bc84bc9b10da0999ece455ffef265cadee2cedda -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T00:52:35.414Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T00:52:35.414Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       },
       "ztempmigrationpropsetcontrol_PCDesktopClient.json": {
         "added": [
-          "FFlagBuildAnalyticsGoals2 = True"
+          "FStringAdInternalErrorCacheBackoffIxpLayer = Ads.RewardedAds.InternalErrorBackOff",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders = True"
         ],
         "removed": [
-          "FIntMigrateComponentManagerToRuntimeInjectorHundredthPercent_Staged = 10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T22:56:53",
-          "FFlagBuildAnalyticsGoals2_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:01:59"
+          "FStringAdInternalErrorCacheBackoffIxpLayer_Staged = Ads.RewardedAds.InternalErrorBackOff;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:52:32",
+          "FFlagEnableStrictConsoleAuthCredentialHeaders_Staged = True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-27T23:44:46"
         ],
         "changed": [
-          "FIntMigrateComponentManagerToRuntimeInjectorHundredthPercent (1000 -> 10000)",
-          "FStringFlagRepoGitHashFastString (bc84bc9b10da0999ece455ffef265cadee2cedda -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "DFStringFlagRepoGitHashDynamicString (bc84bc9b10da0999ece455ffef265cadee2cedda -> 42b09b10db057c586ef272bc77b90f56813ad94e)",
-          "FStringFlipTimeStampFastString (2026-10-28T00:52:35.414Z -> 2026-10-28T01:07:45.085Z)",
-          "DFStringFlipTimeStampDynamicString (2026-10-28T00:52:35.414Z -> 2026-10-28T01:07:45.085Z)"
+          "FStringFlagRepoGitHashFastString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "DFStringFlagRepoGitHashDynamicString (42b09b10db057c586ef272bc77b90f56813ad94e -> 91992c4074b470bb5ffb5e3e5b1b5a1138212b39)",
+          "FStringFlipTimeStampFastString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)",
+          "DFStringFlipTimeStampDynamicString (2026-10-28T01:07:45.085Z -> 2026-10-28T01:57:24.936Z)"
         ]
       }
     }
