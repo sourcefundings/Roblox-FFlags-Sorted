@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28 02:11:18 GMT",
+  "generated": "2026-10-28 02:13:51 GMT",
   "channels": {
     "z1daflag": {
       "PCDesktopClient": {
@@ -2431,6 +2431,76 @@
         ]
       }
     },
+    "zliveforbeta": {
+      "PCDesktopClient": {
+        "added": [
+          "DFFlagBadgesWriteEnabled = True",
+          "DFFlagBadgesWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
+          "DFFlagCrossServerMessagingWriteEnabled = True",
+          "DFFlagCrossServerMessagingWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
+          "DFFlagDataStoreWriteEnabled = True",
+          "DFFlagDataStoreWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
+          "DFFlagDebugDataStoreWriteEnabled = True",
+          "DFFlagDebugDataStoreWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
+          "DFFlagDebugDisableRCCChannelAPIs = False",
+          "DFFlagDebugDisableRCCChannelAPIs_PlaceFilter = False;6873158657;6873177006;6873189348;7290670119;5064251723\n",
+          "DFFlagDebugEnableRCCChannelAPIs = True",
+          "DFFlagHttpServiceWriteEnabled = True",
+          "DFFlagHttpServiceWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
+          "DFFlagPointsWriteEnabled = True",
+          "DFFlagPointsWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
+          "DFIntRCCInstanceTrackingOnElasticSearchHundredthsPercentage = 1000",
+          "DFStringChannelName = zliveforbeta",
+          "Dummy = Dummy",
+          "FFlagForceEnableReportLogsButton = False",
+          "FFlagMacBackgroundDownloadUpdates2 = False",
+          "FFlagReplaceChannelNameForDownload = True",
+          "FlagName = FlagValue"
+        ],
+        "removed": [],
+        "changed": [
+          "DFIntCrashUploadToBacktracePercentage (5 -> 100)",
+          "DFIntPerfDataGlobalThrottleHundredthsPercent (5 -> 50)",
+          "SFStringRCCChannelName ( -> zliveforbeta)",
+          "FFlagUseABCEndpoint (True -> true)",
+          "FFlagWinBackgroundDownloadUpdates2 (True -> False)",
+          "DFIntCrashUploadToBacktraceRolloutMinimumPercentage (10 -> 100)"
+        ]
+      },
+      "MacDesktopClient": {
+        "added": [
+          "DFFlagBadgesWriteEnabled = True",
+          "DFFlagBadgesWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
+          "DFFlagCrossServerMessagingWriteEnabled = True",
+          "DFFlagCrossServerMessagingWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
+          "DFFlagDataStoreWriteEnabled = True",
+          "DFFlagDataStoreWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
+          "DFFlagDebugDataStoreWriteEnabled = True",
+          "DFFlagDebugDataStoreWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
+          "DFFlagDebugDisableRCCChannelAPIs = False",
+          "DFFlagDebugDisableRCCChannelAPIs_PlaceFilter = False;6873158657;6873177006;6873189348;7290670119;5064251723\n",
+          "DFFlagDebugEnableRCCChannelAPIs = True",
+          "DFFlagHttpServiceWriteEnabled = True",
+          "DFFlagHttpServiceWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
+          "DFFlagPointsWriteEnabled = True",
+          "DFFlagPointsWriteEnabled_PlaceFilter = True;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765",
+          "DFIntRCCInstanceTrackingOnElasticSearchHundredthsPercentage = 1000",
+          "DFStringChannelName = zliveforbeta",
+          "Dummy = Dummy",
+          "FFlagForceEnableReportLogsButton = False",
+          "FFlagReplaceChannelNameForDownload = True",
+          "FFlagWinBackgroundDownloadUpdates2 = False",
+          "FlagName = FlagValue"
+        ],
+        "removed": [],
+        "changed": [
+          "DFIntPerfDataGlobalThrottleHundredthsPercent (5 -> 50)",
+          "SFStringRCCChannelName ( -> zliveforbeta)",
+          "FFlagUseABCEndpoint (True -> true)",
+          "FFlagMacBackgroundDownloadUpdates3 (True -> False)"
+        ]
+      }
+    },
     "zserver-low-memory-warning": {
       "PCDesktopClient": {
         "added": [
@@ -2470,6 +2540,82 @@
         "removed": [],
         "changed": [
           "SFStringRCCChannelName ( -> Zserver-low-memory-warning)",
+          "FFlagUseABCEndpoint (True -> true)",
+          "FFlagMacBackgroundDownloadUpdates3 (True -> False)"
+        ]
+      }
+    },
+    "ztempmigrationpropset": {
+      "PCDesktopClient": {
+        "added": [
+          "DFFlagDebugDisableRCCChannelAPIs = False",
+          "DFFlagDebugDisableRCCChannelAPIs_PlaceFilter = False;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765;16101250253;14060889642;14061345484;16566467770",
+          "DFFlagDebugEnableRCCChannelAPIs = True",
+          "DFIntTexturePackPropsetTelemetryHundredthsPercent = 10000",
+          "DFStringChannelName = ztempmigrationpropset",
+          "FFlagForceEnableReportLogsButton = False",
+          "FFlagMacBackgroundDownloadUpdates2 = False",
+          "FFlagTexturePackGameServerPropertySets = True",
+          "FFlagTexturePackShadowUploadPropertySets = true",
+          "FIntTexturePackShadowUploadPropertySetsHundredthPercent = 10000"
+        ],
+        "removed": [],
+        "changed": [
+          "SFStringRCCChannelName ( -> ztempmigrationpropset)",
+          "FFlagUseABCEndpoint (True -> true)",
+          "FFlagWinBackgroundDownloadUpdates2 (True -> False)"
+        ]
+      },
+      "MacDesktopClient": {
+        "added": [
+          "DFFlagDebugDisableRCCChannelAPIs = False",
+          "DFFlagDebugDisableRCCChannelAPIs_PlaceFilter = False;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765;16101250253;14060889642;14061345484;16566467770",
+          "DFFlagDebugEnableRCCChannelAPIs = True",
+          "DFIntTexturePackPropsetTelemetryHundredthsPercent = 10000",
+          "DFStringChannelName = ztempmigrationpropset",
+          "FFlagForceEnableReportLogsButton = False",
+          "FFlagTexturePackGameServerPropertySets = True",
+          "FFlagTexturePackShadowUploadPropertySets = true",
+          "FFlagWinBackgroundDownloadUpdates2 = False",
+          "FIntTexturePackShadowUploadPropertySetsHundredthPercent = 10000"
+        ],
+        "removed": [],
+        "changed": [
+          "SFStringRCCChannelName ( -> ztempmigrationpropset)",
+          "FFlagUseABCEndpoint (True -> true)",
+          "FFlagMacBackgroundDownloadUpdates3 (True -> False)"
+        ]
+      }
+    },
+    "ztempmigrationpropsetcontrol": {
+      "PCDesktopClient": {
+        "added": [
+          "DFFlagDebugDisableRCCChannelAPIs = False",
+          "DFFlagDebugDisableRCCChannelAPIs_PlaceFilter = False;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765;16101250253;14060889642;14061345484;16566467770",
+          "DFFlagDebugEnableRCCChannelAPIs = True",
+          "DFStringChannelName = ztempmigrationpropsetcontrol",
+          "FFlagForceEnableReportLogsButton = False",
+          "FFlagMacBackgroundDownloadUpdates2 = False"
+        ],
+        "removed": [],
+        "changed": [
+          "SFStringRCCChannelName ( -> ztempmigrationpropsetcontrol)",
+          "FFlagUseABCEndpoint (True -> true)",
+          "FFlagWinBackgroundDownloadUpdates2 (True -> False)"
+        ]
+      },
+      "MacDesktopClient": {
+        "added": [
+          "DFFlagDebugDisableRCCChannelAPIs = False",
+          "DFFlagDebugDisableRCCChannelAPIs_PlaceFilter = False;6873158657;6873177006;6873189348;7290670119;5064251723;3904326264;2602787963;2602798987;5911393110;10473126237;10473128037;10473128529;10473089885;6036870533;10483723784;10483730605;10483737699;10473218597;10473224649;10473239518;10625764922;6036870533;10643100765;16101250253;14060889642;14061345484;16566467770",
+          "DFFlagDebugEnableRCCChannelAPIs = True",
+          "DFStringChannelName = ztempmigrationpropsetcontrol",
+          "FFlagForceEnableReportLogsButton = False",
+          "FFlagWinBackgroundDownloadUpdates2 = False"
+        ],
+        "removed": [],
+        "changed": [
+          "SFStringRCCChannelName ( -> ztempmigrationpropsetcontrol)",
           "FFlagUseABCEndpoint (True -> true)",
           "FFlagMacBackgroundDownloadUpdates3 (True -> False)"
         ]
