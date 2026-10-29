@@ -8910,7 +8910,7 @@
     "FFlagAssistantAskInputTool2": "True",
     "FFlagAssistantAsyncSlashCommands": "True",
     "FFlagAssistantAtCommandBarSecurity": "True",
-    "FFlagAssistantAvatarAutoSetupTool5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-29T19:29:23",
+    "FFlagAssistantAvatarAutoSetupTool5": "True",
     "FFlagAssistantAvatarGenSlashCommand_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-29T19:38:45",
     "FFlagAssistantBYOKNewJsonEncoder": "True",
     "FFlagAssistantBridgeScriptDiff": "True",
