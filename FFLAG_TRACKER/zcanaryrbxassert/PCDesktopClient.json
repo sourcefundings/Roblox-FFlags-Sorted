@@ -7731,6 +7731,7 @@
     "FFlagAXTimedOptionsBarHeightFix": "True",
     "FFlagAXTimedOptionsPopoverSkipFocusOnCursor": "True",
     "FFlagAXTimedOptionsSalesTypeFilter": "True",
+    "FFlagAXTimedOptionsSalesTypeFilterRevert_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-29T16:06:03",
     "FFlagAXTimedOptionsSalesTypeFilter_IXP": "1;AvatarExperience.UA.AllViews;AvatarExperience.UA.TimedOptionsV2;1099473834;dev_controlled",
     "FFlagAXTimeoutPromptLabelAbuseTypeFallback": "True",
     "FFlagAXToggleAggregateLikesFavoritesCount": "True",
