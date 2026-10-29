@@ -14018,6 +14018,7 @@
     "FFlagFoundationTruncateBadgeText": "False",
     "FFlagFoundationTruncateBadgeText2": "True",
     "FFlagFoundationUIStrokeInner2": "True",
+    "FFlagFoundationUnifiedScrimScrolling2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1162770411;2026-10-29T16:46:48",
     "FFlagFoundationUpdateBadgeDesign": "True",
     "FFlagFoundationUpdateIconButtonSizes": "True",
     "FFlagFoundationUseAlphaCompositingForStateLayer": "True",
