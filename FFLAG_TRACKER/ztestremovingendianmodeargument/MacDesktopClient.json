@@ -9482,6 +9482,8 @@
     "FFlagBuildExperiencePersistPlaytestLogs": "True",
     "FFlagBuildExperiencePinForBuild": "True",
     "FFlagBuildExperiencePlaytestCardPublishCta": "True",
+    "FFlagBuildExperiencePreviewsTab5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-29T23:05:52",
+    "FFlagBuildExperiencePrivateInvites2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-29T23:05:25",
     "FFlagBuildExperiencePromptFailureTelemetry2": "True",
     "FFlagBuildExperiencePromptStallMessage2": "True",
     "FFlagBuildExperiencePublishedShareLink": "True",
