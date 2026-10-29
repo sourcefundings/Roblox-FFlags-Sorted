@@ -20805,6 +20805,7 @@
     "FFlagToolboxShowIdVerifiedFilter": "True",
     "FFlagToolboxTranslateUploadError3": "True",
     "FFlagToolboxUGCBundleTypesEnum": "False",
+    "FFlagToolboxUGCValidationViaAQS2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-29T16:00:35",
     "FFlagToolboxUnifyModelPackageInsertion2": "True",
     "FFlagToolboxUseAssetDependencyGrantEvent2": "True",
     "FFlagToolboxUseGenericWebView6": "True",
