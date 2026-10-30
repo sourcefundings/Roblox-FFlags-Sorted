@@ -15404,7 +15404,6 @@
     "FFlagLuaAppEnableNotificationsEDPTooltip": "True",
     "FFlagLuaAppEnableNxMApportioningExtraLogging_IXP": "1;Ads.UI;Ads.HomeAds.MaxReachNxMFlagOnly.V6;1613757063;flagbank",
     "FFlagLuaAppEnableNxMRoduxApportioning_IXP": "1;Ads.UI;Ads.HomeAds.MaxReachNxMFlagOnly.V2-WithTelemetryVariants;799635606;flagbank",
-    "FFlagLuaAppEnableNxMRoduxApportioning_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-30T16:08:08",
     "FFlagLuaAppEnableObservedErrorSignalCounter": "True",
     "FFlagLuaAppEnableOneByTwoTileFunnelTelemetry": "True",
     "FFlagLuaAppEnableOneByTwoTileFunnelTelemetrySdui": "True",
