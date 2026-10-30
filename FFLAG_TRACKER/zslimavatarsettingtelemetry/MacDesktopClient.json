@@ -8675,6 +8675,7 @@
     "FFlagAppChatRemoveConversationListDividerIxpEnabled_IXP": "1;Party.LandingPage;AppChatRemoveConversationListDivider;648887814;dev_controlled",
     "FFlagAppChatRemoveConversationListDivider_IXP": "1;Party.LandingPage;AppChatRemoveConversationListDivider;648887814;dev_controlled",
     "FFlagAppChatRemoveNotifications": "True",
+    "FFlagAppChatRemovePlaceInfosAsync_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-30T17:26:14",
     "FFlagAppChatRemoveToggleChatPaused": "True",
     "FFlagAppChatRemoveUnfilteredThreadsEligibility": "True",
     "FFlagAppChatRemoveUserProfileTitles2_IXP": "1;Party.Chat.Performance;FFlagAppChatRemoveUserProfileTitles2;568652191;dev_controlled",
