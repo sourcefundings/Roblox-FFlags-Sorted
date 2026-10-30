@@ -12707,7 +12707,6 @@
     "FFlagExpChatPresetChatLoadTestEnabled": "False",
     "FFlagExpChatPresetChatSendEnabled": "True",
     "FFlagExpChatPresetChatTabMemory": "True",
-    "FFlagExpChatPresetChatTabMemory_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-30T18:10:13",
     "FFlagExpChatPresetChatVREnabled": "True",
     "FFlagExpChatPresetFixChatHotkey": "True",
     "FFlagExpChatRearrangeAutocompleteInit": "True",
