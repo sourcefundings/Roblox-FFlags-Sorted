@@ -9521,7 +9521,7 @@
     "FFlagBuildExperienceManageSubscription": "True",
     "FFlagBuildExperienceMenuImprovements": "True",
     "FFlagBuildExperienceMonetizationFailureCauses": "True",
-    "FFlagBuildExperienceMonetizationKindRegionalPricing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-29T23:50:21",
+    "FFlagBuildExperienceMonetizationKindRegionalPricing": "True",
     "FFlagBuildExperienceMonetizationManageKinds": "True",
     "FFlagBuildExperienceMonetizationMultiKind": "True",
     "FFlagBuildExperienceMonetizationNativeUI2": "True",
