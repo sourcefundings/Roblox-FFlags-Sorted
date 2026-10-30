@@ -9527,7 +9527,7 @@
     "FFlagBuildExperienceMenuImprovements": "True",
     "FFlagBuildExperienceMonetizationFailureCauses_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-29T23:49:15",
     "FFlagBuildExperienceMonetizationKindRegionalPricing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-29T23:50:21",
-    "FFlagBuildExperienceMonetizationManageKinds_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-29T23:38:45",
+    "FFlagBuildExperienceMonetizationManageKinds": "True",
     "FFlagBuildExperienceMonetizationMultiKind": "True",
     "FFlagBuildExperienceMonetizationNativeUI2": "True",
     "FFlagBuildExperienceMonetizationProductEditing": "True",
