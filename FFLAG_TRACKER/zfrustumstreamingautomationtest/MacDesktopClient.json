@@ -6201,6 +6201,7 @@
     "DFIntTextChatPropertyReadThrottlePermyriad": "2",
     "DFIntTextChatPropertyWriteThrottlePermyriad": "20",
     "DFIntTextChatRobloxMessageReceivedSamplePermyriad": "1000",
+    "DFIntTextChatServiceMaxMessageLength_UniverseFilter": "280;10742312197",
     "DFIntTextChatServiceMaxMessagesPerExpiryTime": "10",
     "DFIntTextChatServiceMessageRateLimitExpiryTime": "30",
     "DFIntTextChatSignalFiredThrottlePermyriad": "100",

@@ -13450,6 +13450,7 @@
     "FFlagFixRbxRandSignedOverflow": "True",
     "FFlagFixRenderUnifiedDitheredSurfaceAppearance2": "True",
     "FFlagFixRenderViewTimerPeriodImbalance": "True",
+    "FFlagFixReplicatedHumanoidClientRescale_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-30T17:57:27",
     "FFlagFixReportAdInfoDuringRotation": "True",
     "FFlagFixReportButtonCutOff": "True",
     "FFlagFixRequireHang": "True",
