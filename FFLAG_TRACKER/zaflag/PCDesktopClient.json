@@ -18772,7 +18772,7 @@
     "FFlagResponsiveUnitHHLogicalBuckets": "True",
     "FFlagResponsiveUnitNewHHScaling2": "True",
     "FFlagResponsiveUnitsProfileHeader": "True",
-    "FFlagRestartTimeToLoginOnHumanInteractionRetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-30T18:41:05",
+    "FFlagRestartTimeToLoginOnHumanInteractionRetry": "True",
     "FFlagRestoreAndroidAudioDucking2": "True",
     "FFlagRestoreAnimationHipHeightScaling": "True",
     "FFlagRestoreLcVertexAveraging": "True",
