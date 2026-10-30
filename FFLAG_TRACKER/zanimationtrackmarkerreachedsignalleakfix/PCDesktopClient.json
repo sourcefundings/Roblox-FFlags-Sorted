@@ -8770,7 +8770,6 @@
     "FFlagAppChatSuppressGroupOSAContextCard1": "True",
     "FFlagAppChatSwapHiddenMessageVisibilityAndPreviewContent1": "True",
     "FFlagAppChatTTIStaleGuard": "True",
-    "FFlagAppChatTTIStaleGuard_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-10-30T18:25:40",
     "FFlagAppChatTelemetryChatIsVisibleCheck": "True",
     "FFlagAppChatTelemetryCounterAddSharedInfo": "True",
     "FFlagAppChatTelemetryCounterWithEmittedInfo": "True",
