@@ -11708,6 +11708,7 @@
     "FFlagEnableForkedChatAnalytics": "True",
     "FFlagEnableForwardGeneralExperienceLocaleValue": "True",
     "FFlagEnableFoundationLogoInCustomizedInviteLandingPage": "True",
+    "FFlagEnableFoundationSdui_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1503458658;2026-11-09T17:13:18",
     "FFlagEnableFoundationTokensForSimpleSubmitDialog": "True",
     "FFlagEnableFoundationUIVPCUpsell": "False",
     "FFlagEnableFoundationUIVPCUpsellForInExperience": "True",
