@@ -8849,7 +8849,7 @@
     "FFlagAppChatOpenChatIxpEnabledV2_IXP": "1;Social.AppChat;AppChat.OpenChatFromChatDetails-EnableChatDetailsOpenChatV2;1597893018;dev_controlled",
     "FFlagAppChatOpenChatIxpEnabledV3": "True",
     "FFlagAppChatPCMFixBlocking": "True",
-    "FFlagAppChatParseMessageTimestampsOnce_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-10T01:01:41",
+    "FFlagAppChatParseMessageTimestampsOnce": "True",
     "FFlagAppChatParticipantDialogFoundationMenuV2": "True",
     "FFlagAppChatParticipantDialogGamepadFocus": "True",
     "FFlagAppChatPerfChatConversationPaginationEnabled": "True",
