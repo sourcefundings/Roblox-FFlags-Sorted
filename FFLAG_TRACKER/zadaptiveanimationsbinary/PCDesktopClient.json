@@ -19004,6 +19004,7 @@
     "FFlagRenameRespawnConfirmationPage": "True",
     "FFlagRenameSettingsTabsSentenceCase": "True",
     "FFlagRenderAPI979Property3": "True",
+    "FFlagRenderAPI979Property3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-10T16:57:35",
     "FFlagRenderActualKilopixelsTelemetry": "True",
     "FFlagRenderBoundsCheckAttachmentOrientation": "True",
     "FFlagRenderCapturePlayerGuiMode": "False",
