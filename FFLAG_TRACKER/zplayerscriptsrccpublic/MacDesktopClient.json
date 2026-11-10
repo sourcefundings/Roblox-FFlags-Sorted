@@ -20832,7 +20832,7 @@
     "FFlagStudioMeshStreamingGreyOutRenderFidelity": "True",
     "FFlagStudioMessageDispatcherWithExplicitStopSource": "True",
     "FFlagStudioMovePageVisibilityToMainWindow": "True",
-    "FFlagStudioNederlandsLocale": "True",
+    "FFlagStudioNederlandsLocale": "false",
     "FFlagStudioNoTeamTestInstanceMode": "True",
     "FFlagStudioNotifierInitImpl": "True",
     "FFlagStudioObjectExportPassHiToGenerator": "False",
