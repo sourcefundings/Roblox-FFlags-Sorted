@@ -12489,7 +12489,7 @@
     "FFlagEnableSharedStringCaching7": "True",
     "FFlagEnableShimmeringIconLegacyChatService": "True",
     "FFlagEnableShopExposureLogging": "True",
-    "FFlagEnableShopExposureLogging2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-09T23:41:24",
+    "FFlagEnableShopExposureLogging2": "True",
     "FFlagEnableShopIconTelemetry": "True",
     "FFlagEnableShopPrefetch": "True",
     "FFlagEnableShopProductInfoRefresh": "True",
