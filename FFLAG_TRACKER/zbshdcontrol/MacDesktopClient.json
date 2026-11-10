@@ -13741,7 +13741,6 @@
     "FFlagFixNavBarColorOnTokenUpdateV3": "True",
     "FFlagFixNavBarStartupDuplicateAnim": "True",
     "FFlagFixNavRailForDeviceSafeInsets": "True",
-    "FFlagFixNavRailForDeviceSafeInsets_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-10T00:10:07",
     "FFlagFixNavigationInsetsOnHiddenTabBar": "True",
     "FFlagFixNavigationToCreatorProfileWebviewFromProfile": "True",
     "FFlagFixNavmeshDebugDraw2": "True",
