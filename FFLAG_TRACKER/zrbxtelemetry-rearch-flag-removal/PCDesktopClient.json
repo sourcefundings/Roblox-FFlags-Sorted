@@ -18804,6 +18804,7 @@
     "FFlagRelativeSkinningTransferEnabled3": "True",
     "FFlagRelaxOnPlayTimeSinceLastCrash": "True",
     "FFlagRelayoutFlexLayoutOnChildDirty": "True",
+    "FFlagReleaseAdaptiveConfigClientOnShutdown_Staged": "True;SteadyState;10;30;Revert;2026-11-10T17:10:43",
     "FFlagReleaseTextBoxFocusOnChallengeOpen": "True",
     "FFlagRelocateMobileMenuButtons2": "True",
     "FFlagRelocateMobileMenuButtons3": "True",

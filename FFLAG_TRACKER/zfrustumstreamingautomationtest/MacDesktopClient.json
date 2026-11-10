@@ -16498,6 +16498,7 @@
     "FFlagLuauBytecodeCostModel2": "True",
     "FFlagLuauCIProto": "True",
     "FFlagLuauCacheDuplicateHasPropConstraints": "True",
+    "FFlagLuauCageSplitData_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;628216466;2026-11-10T17:09:48",
     "FFlagLuauCallErrorReportingRecoversArgumentLocationsForPacks": "True",
     "FFlagLuauCallFeedback": "True",
     "FFlagLuauCallLuauTm": "True",
