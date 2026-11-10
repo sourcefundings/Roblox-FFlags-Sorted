@@ -8669,7 +8669,7 @@
     "FFlagAppChatChatLandingScreenRenameFixEnabled": "True",
     "FFlagAppChatClosedEvent": "False",
     "FFlagAppChatClosedEvent2": "True",
-    "FFlagAppChatCoalesceSendMessageWrites_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-10T00:59:32",
+    "FFlagAppChatCoalesceSendMessageWrites": "True",
     "FFlagAppChatConnectIconDropdownAlwaysAvailable": "True",
     "FFlagAppChatConsoleFocusFixes2": "True",
     "FFlagAppChatConsolidateTrustedFriendsModal": "True",
