@@ -4339,7 +4339,7 @@
     "DFFlagValidateDescendantOfDataModel": "True",
     "DFFlagValidateDigestBounds": "True",
     "DFFlagValidateEditableMeshData": "True",
-    "DFFlagValidateEditableMeshDataDeserialize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-10T22:01:22",
+    "DFFlagValidateEditableMeshDataDeserialize": "True",
     "DFFlagValidateNamesTypeGetFriendsAsync": "True",
     "DFFlagVector3CurveGetValueDoTelemetry": "True",
     "DFFlagVideoAbrClearUpperLowerBound": "True",
