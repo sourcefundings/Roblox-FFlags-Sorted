@@ -17806,7 +17806,7 @@
     "FFlagOffersOnlyAffordableLock": "True",
     "FFlagOffersPerKeyExpiryRefetch": "True",
     "FFlagOffersRespectExpiration": "True",
-    "FFlagOffersShopScopedNotification_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-10T22:34:21",
+    "FFlagOffersShopScopedNotification": "True",
     "FFlagOffsetQtContextMenus": "True",
     "FFlagOmitMajorityOccludedIsland": "True",
     "FFlagOmitMajorityUsesSA": "True",
