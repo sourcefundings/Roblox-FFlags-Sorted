@@ -8477,7 +8477,7 @@
     "FFlagAmpWizardDeepLinkReplaceOnlyWebView": "True",
     "FFlagAmpWizardEntryPointEventCtxFallback": "True",
     "FFlagAmpWizardParseExtraParameters": "True",
-    "FFlagAmpWizardRetryKeepsNameSpace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-11T18:42:47",
+    "FFlagAmpWizardRetryKeepsNameSpace": "True",
     "FFlagAmpWizardV2VpcHandoff": "True",
     "FFlagAmrAcceptFriendlyEnumNames": "True",
     "FFlagAmrAddToExperience_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1881312409;2026-11-11T18:52:58",
