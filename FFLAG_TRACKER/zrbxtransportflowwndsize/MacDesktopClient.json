@@ -24053,7 +24053,7 @@
     "FIntQtMenuOffsetY": "5",
     "FIntQuadTreeRebuildThreshold": "800",
     "FIntQuadricErrorScaleFactorHundredths": "1000",
-    "FIntQuicInitialMaxStreamDataUni": "100000000",
+    "FIntQuicInitialMaxStreamDataUni": "9999999999",
     "FIntRakNetDatagramMessageIdArrayLength": "2048",
     "FIntRakNetResendBufferArrayLength": "512",
     "FIntRbfMinDistance": "1000",
