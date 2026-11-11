@@ -17681,7 +17681,7 @@
     "FFlagNetAssetSubsystem": "True",
     "FFlagNetAssetTimeToLoad": "True",
     "FFlagNetEmReopenPlaceRequired": "True",
-    "FFlagNetPerfAnalysisAfterSync_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-11T00:58:24",
+    "FFlagNetPerfAnalysisAfterSync": "True",
     "FFlagNetworkBandwidthAlwaysReportGameSessionStats": "True",
     "FFlagNetworkBandwidthEnabled2": "True",
     "FFlagNetworkEmulationPublicUi2": "True",
