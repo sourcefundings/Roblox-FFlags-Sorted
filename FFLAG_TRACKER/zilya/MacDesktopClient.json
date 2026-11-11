@@ -1181,6 +1181,7 @@
     "DFFlagEditableMeshSlotMapUnbiasedSlotIndex": "True",
     "DFFlagEditableMeshTangentHandedness": "True",
     "DFFlagEditablePolicyErrorReporting": "True",
+    "DFFlagEditableSkipPolicyCheckForStudioEditMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-11T22:54:37",
     "DFFlagEfficientQuaternionSlerp": "True",
     "DFFlagEliminateLSCHashStorage6": "False",
     "DFFlagEmitFSSizeTelemetry": "True",
