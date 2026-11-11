@@ -2544,7 +2544,7 @@
     "DFFlagNonTeamCreateRemoteSaveValidatorMasterSwitchOptIn_PlaceFilter": "True;13548920446",
     "DFFlagNonVolumetricGC4": "True",
     "DFFlagNonVolumetricGC4_PlaceFilter": "False;3351674303",
-    "DFFlagNormalizeDefaultRedirectCacheReadPolicy_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-11T22:44:19",
+    "DFFlagNormalizeDefaultRedirectCacheReadPolicy": "True",
     "DFFlagNotifyWsShutdown": "True",
     "DFFlagNpCommerceDialogModeProduct": "True",
     "DFFlagNullEngineContextPart3": "True",
