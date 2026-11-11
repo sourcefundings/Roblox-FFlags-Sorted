@@ -21702,7 +21702,7 @@
     "FFlagToolboxFixSubmitDevelopmentItemWidth": "True",
     "FFlagToolboxFixTutorialConfigFireYield": "True",
     "FFlagToolboxFixUGCBundleValidationCryoThingy1": "True",
-    "FFlagToolboxHideSpecialAttributeForNonAvatarItems_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-11T21:20:56",
+    "FFlagToolboxHideSpecialAttributeForNonAvatarItems": "True",
     "FFlagToolboxInitResponseTrackingAttributes": "True",
     "FFlagToolboxLinkifyAnalytics": "True",
     "FFlagToolboxLogInsertSourceAssetUniqueId": "True",
