@@ -12827,6 +12827,7 @@
     "FFlagEnableTenFootInterfaceCheckForLegacyChat": "True",
     "FFlagEnableTerrainPalette5": "True",
     "FFlagEnableTestAdDisclaimer": "True",
+    "FFlagEnableTestServiceRegistrationAPI7_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-12T21:52:56",
     "FFlagEnableTextDocumentAssetUpload": "True",
     "FFlagEnableTextFieldContentType": "False",
     "FFlagEnableTextInputBoxOverrideColor": "True",
