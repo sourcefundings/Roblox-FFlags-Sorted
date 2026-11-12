@@ -15634,7 +15634,7 @@
     "FFlagLegacyChatDeprecationMigrateUseDialog": "True",
     "FFlagLegacyProfileTCIndicator_V3": "True",
     "FFlagLegacyRatingPromptEmitEvent": "True",
-    "FFlagLegacyTextSubpixelRendering": "True",
+    "FFlagLegacyTextSubpixelRendering": "False",
     "FFlagLibMpDataSourceTelemetry": "True",
     "FFlagLibMpEnabledOne": "True",
     "FFlagLibMpExperimentalContentMode": "True",
