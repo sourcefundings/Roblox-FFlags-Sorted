@@ -1924,6 +1924,7 @@
     "DFFlagGImageUseWuffsPngDecoder_IXP": "1;Portal.wuffs_insteadof_libpng-1782244803;wuffs_insteadof_libpng;236578918;flagbank",
     "DFFlagGameJoinPropagateJoinOrigin": "True",
     "DFFlagGameJoinUtilCounterV2": "True",
+    "DFFlagGamePassFreeTrialRedeemEnabled_API1463_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-12T00:03:38",
     "DFFlagGamePassOwnershipOrchestratorEnabled": "True",
     "DFFlagGamePassOwnershipOrchestratorEnabled2": "True",
     "DFFlagGamePassOwnershipOverrides_API1463": "True",
