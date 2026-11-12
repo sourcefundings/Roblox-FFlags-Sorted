@@ -18753,6 +18753,7 @@
     "FFlagRbxStorageMigrateCacheDir": "False",
     "FFlagRbxStorageRemoveLargeDb": "True",
     "FFlagRbxStorageRemoveLargeWal": "True",
+    "FFlagRbxStorageRemoveOldCache_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-12T00:50:27",
     "FFlagRbxStorageRemoveOrphansIfDbDropped": "True",
     "FFlagRbxStorageRemoveStrayWal": "True",
     "FFlagRbxStorageReportInitBlocked": "True",
