@@ -10353,6 +10353,7 @@
     "FFlagCloseReadOnlyMappedFileAfterOpen": "True",
     "FFlagCloseupDefaultMood": "True",
     "FFlagCloudClientDecodeFrameRateCeiling": "True",
+    "FFlagCloudClientDecodeFrameRateLadder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-12T00:38:09",
     "FFlagCloudClientEligibilityReserve": "True",
     "FFlagCloudClientEligibilityReserve_IXP": "1;Engine.CloudClient;Engine.CloudClient.OfflineCheck.v1;1147381363;flagbank",
     "FFlagCloudClientLibWebrtcRequestKeyFrame": "True",
