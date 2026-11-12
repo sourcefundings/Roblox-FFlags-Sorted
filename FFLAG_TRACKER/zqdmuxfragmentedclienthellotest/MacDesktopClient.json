@@ -22668,7 +22668,6 @@
     "FFlagUserListPresenceStoreMigration_v2": "True",
     "FFlagUserListRowViewCta": "True",
     "FFlagUserListSurfaceExtensions_v2": "True",
-    "FFlagUserListSurfaceExtensions_v2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-11T23:37:32",
     "FFlagUserListSurfacePresenceWins": "True",
     "FFlagUserListTightHeaderSpacing": "True",
     "FFlagUserListUseActionAddTranslation": "True",
