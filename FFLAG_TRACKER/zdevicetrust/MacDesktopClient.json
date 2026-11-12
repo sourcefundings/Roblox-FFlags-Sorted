@@ -17055,7 +17055,6 @@
     "FFlagLuauResumeRestoreCcalls": "True",
     "FFlagLuauReturnMappedGenericPacksFromSubtyping2": "False",
     "FFlagLuauReturnMappedGenericPacksFromSubtyping3": "True",
-    "FFlagLuauSaltedInterningTable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1251267351;2026-11-12T20:30:16",
     "FFlagLuauSandboxFreezesVectorMetatable": "True",
     "FFlagLuauScopeMethodsAreSolverAgnostic": "True",
     "FFlagLuauScopedSeenSetInLookupTableProp": "True",
