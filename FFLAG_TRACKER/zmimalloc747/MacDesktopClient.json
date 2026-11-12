@@ -18816,6 +18816,7 @@
     "FFlagRbxTransportPeerClockTlsSeed": "True",
     "FFlagRbxTransportPhysicsClock": "True",
     "FFlagRbxTransportQuicListenerDisableReuseAddr": "True",
+    "FFlagRbxTransportQuicPrefixAddressDecisions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-12T23:40:47",
     "FFlagRbxTransportQuicReentrantStreamFlush": "True",
     "FFlagRbxTransportRenotifyReceiveOnAuthentication": "True",
     "FFlagRbxTransportRnaLazyIoInit": "True",

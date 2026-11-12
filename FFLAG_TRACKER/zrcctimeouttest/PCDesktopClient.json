@@ -20899,6 +20899,7 @@
     "FFlagSquadDisableJoinButtonSameInstance": "True",
     "FFlagSquadEnabled": "True",
     "FFlagSquadExperienceInviteRetryAfter2": "True",
+    "FFlagSquadLobbyActionBarFixMicLevelRerender2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-12T23:47:59",
     "FFlagSquadStartedCardBgFixEnabled": "True",
     "FFlagSquadThirdPartySettingsChangesEnabled2": "True",
     "FFlagSquadToastNotificationsEnabled2": "True",
