@@ -18334,6 +18334,7 @@
     "FFlagPluginGuiPointerEvents": "True",
     "FFlagPluginGuiProcessPointerAction": "True",
     "FFlagPluginHangMonitorExperimentation": "False",
+    "FFlagPluginImportUseAssetImporter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-12T00:33:24",
     "FFlagPluginLoaderKeyboardNavigation": "True",
     "FFlagPluginLoaderRegisterUri": "True",
     "FFlagPluginLoadingHigherStack": "True",
