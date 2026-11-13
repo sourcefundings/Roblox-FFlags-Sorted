@@ -19989,7 +19989,7 @@
     "FFlagSduiSettingsRootPage2_IXP": "1;UniversalApp.SettingsRootPage;UniversalApp.SettingsRootPage.SDUI;346739127;dev_controlled",
     "FFlagSduiSettingsRootPageLogExposure_IXP": "1;UniversalApp.SettingsRootPage;UniversalApp.SettingsRootPage.SDUI;346739127;dev_controlled",
     "FFlagSduiSharedLocalizedLiterals": "True",
-    "FFlagSduiSheetComponent2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-13T19:56:35",
+    "FFlagSduiSheetComponent2": "True",
     "FFlagSduiShimmerTextComponentEnabled": "True",
     "FFlagSduiShowToastAction_v2": "True",
     "FFlagSduiSingleItemCollectionAutomaticSizeProp": "True",
