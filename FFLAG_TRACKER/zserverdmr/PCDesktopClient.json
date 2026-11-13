@@ -9410,7 +9410,7 @@
     "FFlagAudioCompressorEditorFontFix": "True",
     "FFlagAudioDeviceInputFixReplicationChecks": "True",
     "FFlagAudioDeviceInputHideAccessTypeProperty": "True",
-    "FFlagAudioDeviceInputReplaceAudioNodes2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-12T23:14:46",
+    "FFlagAudioDeviceInputReplaceAudioNodes2": "True",
     "FFlagAudioDeviceInputsDefaultToInactive": "True",
     "FFlagAudioDeviceOutputCanRenderWithoutPlayers": "True",
     "FFlagAudioDevicesCanDefaultToOS": "True",
