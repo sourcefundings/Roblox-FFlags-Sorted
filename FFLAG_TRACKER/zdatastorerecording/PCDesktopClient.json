@@ -18953,6 +18953,7 @@
     "FFlagRealtimeAssignIsConnectedFunc": "True",
     "FFlagRealtimeDeliveryReconnectFix": "True",
     "FFlagRealtimeDurableReplaySeqNumLifetimeFix": "True",
+    "FFlagRealtimeDurableReplayerNotificationProcessorLifetimeFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;510604556;2026-11-13T19:34:44",
     "FFlagRealtimeMediaAppLifecycle": "True",
     "FFlagRealtimeMediaBackendTag": "True",
     "FFlagRealtimeMediaConnectionStatus": "True",
