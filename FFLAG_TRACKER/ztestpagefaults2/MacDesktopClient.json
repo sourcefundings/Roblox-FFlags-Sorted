@@ -2939,7 +2939,7 @@
     "DFFlagRbxTransportFixTimestampRounding": "True",
     "DFFlagRbxTransportGetNetworkPing": "True",
     "DFFlagRbxTransportGracefulDontFragFailure": "True",
-    "DFFlagRbxTransportH3UsageTracking_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-13T18:30:09",
+    "DFFlagRbxTransportH3UsageTracking": "True",
     "DFFlagRbxTransportHandshakeAttemptsTelemetry": "True",
     "DFFlagRbxTransportHandshakeStatsPoints": "True",
     "DFFlagRbxTransportIoErrorToStateReasonKeepDetails": "True",
