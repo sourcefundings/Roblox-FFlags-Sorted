@@ -2276,6 +2276,7 @@
     "DFFlagLcCacheOptDefaultEnabled": "False",
     "DFFlagLcCacheOptDefaultEnabled2": "False",
     "DFFlagLcCacheOptDefaultEnabled3": "False",
+    "DFFlagLcCacheOptDefaultEnabled4_Staged": "True;SteadyState;10;30;Revert;2026-11-13T00:23:00",
     "DFFlagLcCacheOptThreePhaseRolloutProperty": "True",
     "DFFlagLcCacheOptThreePhaseRolloutProperty2": "False",
     "DFFlagLcCacheOptThreePhaseRolloutProperty4": "True",
