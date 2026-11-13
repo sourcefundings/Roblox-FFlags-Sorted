@@ -20309,7 +20309,7 @@
     "FFlagSignupDisplayNameLogging": "False",
     "FFlagSignupFoundationBackgroundDarkFix": "True",
     "FFlagSignupFoundationFields": "False",
-    "FFlagSignupFoundationFields3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-13T00:01:00",
+    "FFlagSignupFoundationFields3": "True",
     "FFlagSignupFoundationTelemetry": "True",
     "FFlagSignupSsoDesignFixes": "True",
     "FFlagSilenceDecalPropsetStudioErrors": "True",
