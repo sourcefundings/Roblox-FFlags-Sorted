@@ -17777,6 +17777,7 @@
     "FFlagNetworkPauseNoAnimation": "True",
     "FFlagNetworkPerfTestAnalysis5": "True",
     "FFlagNetworkPerfTestClientAnalysis5": "False",
+    "FFlagNetworkPerfTestClientAnalysis6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;374711742;2026-11-13T17:14:40",
     "FFlagNetworkReflectionTypeObjectUseReflectionTypeInstanceGuid": "True",
     "FFlagNetworkSchemaSupportsUserType": "True",
     "FFlagNetworkSchemaVersionClientBit": "True",
