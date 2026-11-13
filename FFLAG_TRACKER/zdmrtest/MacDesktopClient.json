@@ -8703,6 +8703,7 @@
     "FFlagAnimationSAReuseFadingTracks": "True",
     "FFlagAnimationSAScriptExplicitlySetLoopedProperty": "True",
     "FFlagAnimationSAScriptForR6AndChattedEmote": "True",
+    "FFlagAnimationSAStepBindToAnimation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-13T17:43:49",
     "FFlagAnimationSAVariableSpeedAnimations": "True",
     "FFlagAnimationSAuthHighSlotNotifications": "True",
     "FFlagAnimationServerAuthorityAdfSupport2": "True",
