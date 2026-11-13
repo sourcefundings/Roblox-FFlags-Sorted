@@ -19846,7 +19846,7 @@
     "FFlagSduiEnableClearOnEmptyResponse": "True",
     "FFlagSduiEnableHeroUnitBottomRow": "True",
     "FFlagSduiErrorCleanup": "True",
-    "FFlagSduiErrorPaths_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;693903150;2026-11-13T18:56:09",
+    "FFlagSduiErrorPaths": "True",
     "FFlagSduiEventDetailsSupport": "True",
     "FFlagSduiEventRsvpFacePile": "True",
     "FFlagSduiExperienceDetailsSocialProof_2": "True",
