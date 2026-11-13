@@ -14387,7 +14387,7 @@
     "FFlagFoundationAvatarBindableUserId": "True",
     "FFlagFoundationAvatarIncludeProfileFrame": "True",
     "FFlagFoundationBadgeBetaUpdate": "False",
-    "FFlagFoundationBaseMenuAccessorySizing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-12T23:20:10",
+    "FFlagFoundationBaseMenuAccessorySizing": "True",
     "FFlagFoundationBaseMenuAutoYCanvasSizing": "True",
     "FFlagFoundationBaseMenuBeta": "True",
     "FFlagFoundationBaseMenuBorderFix2": "True",
