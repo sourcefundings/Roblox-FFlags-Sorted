@@ -23743,7 +23743,7 @@
     "FIntAvatarPreviewerInfluxSeriesThrottlingPercentage": "10000",
     "FIntAvatarPreviewerMaxSerializedModelToSendBytes": "196608",
     "FIntBackgroundDMLocalPlayerLoadingTimeoutSeconds": "25",
-    "FIntBackgroundProcessingMinInterval_Staged": "31536000;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-14T02:56:22",
+    "FIntBackgroundProcessingMinInterval": "31536000",
     "FIntBacktraceUseSyncPercentage": "100",
     "FIntBootstrapperTelemetryReportingHundredthsPercentage": "100",
     "FIntBubbleChatAddMessageRolloutPercent": "1",
