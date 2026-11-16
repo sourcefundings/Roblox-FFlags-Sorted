@@ -8851,6 +8851,7 @@
     "FFlagAnimGraphUI_RunTimeDebug": "True",
     "FFlagAnimGraphUI_StateMachineNodeType": "True",
     "FFlagAnimGraphUI_ToolbarAvoidParameterPane": "True",
+    "FFlagAnimGraphUI_TriggerParamButton_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-16T17:22:50",
     "FFlagAnimGraphUI_UnifyExpressionEditors": "True",
     "FFlagAnimGraphUI_UnifyNodeCorners": "True",
     "FFlagAnimGraphUI_ValueNodeDebugOutputs": "True",
