@@ -18899,7 +18899,6 @@
     "FFlagProductInfoBatchingCoalescingEnabled": "True",
     "FFlagProfileAboutDetailsUseSheet": "True",
     "FFlagProfileCTAHydratePresenceFromMetadata_v2": "True",
-    "FFlagProfileCTAHydratePresenceFromMetadata_v2_IXP": "1;Social.UserCTAs;Social.JoinabilityCTAs.v2;1632304249;dev_controlled",
     "FFlagProfileCompletionResolveLatestSduiEntry": "True",
     "FFlagProfileCompletionUsePlatformSurfaceKey": "True",
     "FFlagProfileContextualMenuDisableFix": "True",
