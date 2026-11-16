@@ -18903,6 +18903,7 @@
     "FFlagRccPerDataModelHangMonitoring": "True",
     "FFlagRccPerDataModelHangUseNormalShutdown": "True",
     "FFlagRccRequireIsrForNetStackAdvertisement": "True",
+    "FFlagRccRomemLogDrainToFastLog": "true",
     "FFlagRccScriptsFixBase64Encode": "True",
     "FFlagRccSupportCDNContentUrl": "True",
     "FFlagRcuFewerNotifications": "True",
