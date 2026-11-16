@@ -2917,6 +2917,7 @@
     "DFFlagRbxStorageWalCheckpointAfterCleanup": "True",
     "DFFlagRbxTelemetryEnableStartEndEvents3": "True",
     "DFFlagRbxTransportAddPerfTelemetry": "True",
+    "DFFlagRbxTransportAuthGateOnJoinTicketV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-16T17:31:23",
     "DFFlagRbxTransportBWFixDMGetAssert": "True",
     "DFFlagRbxTransportBaseClientBlockingEventWait": "True",
     "DFFlagRbxTransportBaseServerBlockingEventWait2": "true",
