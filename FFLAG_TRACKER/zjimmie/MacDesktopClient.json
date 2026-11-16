@@ -6880,6 +6880,7 @@
     "EnableGmaSdkOperationTimeouts": "true",
     "EnableIsolatedGmaSdk3": "true",
     "EnablePreferImmediatelyAvailableCredentialsSupport": "true",
+    "EnablePushNotificationSettingsMethodsForAndroid": "true",
     "EnableReadFromExternalSettingsFile": "True",
     "EnableSafeAppUpgradeWithoutActivity2": "true",
     "EnableSafeSetAudioMode": "true",
