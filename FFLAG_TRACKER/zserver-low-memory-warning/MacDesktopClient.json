@@ -19495,6 +19495,7 @@
     "FFlagRenderStarsWriteNormalColor": "True",
     "FFlagRenderStatsAddEngineUiCategory": "True",
     "FFlagRenderStudioHighlightsMergeIds": "True",
+    "FFlagRenderSurfaceAppearanceResampleModeNoAssetCreation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-18T17:15:05",
     "FFlagRenderTechniqueBindResourceOpt": "True",
     "FFlagRenderTerrainEmissiveMask2": "True",
     "FFlagRenderTerrainOptimizeDecoratorUpdates": "True",
