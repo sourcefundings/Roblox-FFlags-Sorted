@@ -3584,6 +3584,7 @@
     "DFFlagSetRemovalShouldNotCareAboutRequireState": "True",
     "DFFlagSetRequiredDontCreateCountOnCheck": "True",
     "DFFlagSetRootHandleName": "True",
+    "DFFlagSetServerMetroOnDatamodel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-18T22:25:57",
     "DFFlagSetViewportDirtyOnScaleChange": "True",
     "DFFlagShadowMapCacheScrollProfilerTokens": "True",
     "DFFlagShapecastDebugDrawImprovements": "True",
