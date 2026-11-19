@@ -17778,7 +17778,7 @@
     "FFlagMomentsOverflowButtonAnalytics": "True",
     "FFlagMomentsOverlayContainerScaleFallback": "True",
     "FFlagMomentsOverlaysInTopShellOnly": "True",
-    "FFlagMomentsParentTimeLimit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-19T00:33:44",
+    "FFlagMomentsParentTimeLimit": "True",
     "FFlagMomentsPartnerContentLabel": "True",
     "FFlagMomentsPassFeedItemIdToBackendApis": "True",
     "FFlagMomentsPauseAudioThroughTeleport": "True",
