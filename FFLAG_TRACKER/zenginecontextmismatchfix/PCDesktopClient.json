@@ -4439,6 +4439,7 @@
     "DFFlagValidateEditableMeshDataDeserialize": "True",
     "DFFlagValidateEditableMeshDataSpatialQuery": "True",
     "DFFlagValidateNamesTypeGetFriendsAsync": "True",
+    "DFFlagValueCurveRejectPartiallyDecodedKeys_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-19T19:16:47",
     "DFFlagVector3CurveGetValueDoTelemetry": "True",
     "DFFlagVideoAbrClearUpperLowerBound": "True",
     "DFFlagVideoAcrFixPriorityListDelimiter": "True",
