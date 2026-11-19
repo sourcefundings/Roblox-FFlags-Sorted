@@ -13439,6 +13439,7 @@
     "FFlagExpChatTransparentFocusSupport": "True",
     "FFlagExpChatTriggerWindowStatusEvent": "True",
     "FFlagExpChatTrimMessageStore": "True",
+    "FFlagExpChatUnconditionalCombinedNameHook_Staged": "True;SteadyState;10;30;Revert;true;1071634130;2026-11-19T17:39:42",
     "FFlagExpChatUnibarAvailabilityRefactor": "True",
     "FFlagExpChatUnibarThumbstickNavigate": "True",
     "FFlagExpChatUniverseChatPresetEnabled2": "True",

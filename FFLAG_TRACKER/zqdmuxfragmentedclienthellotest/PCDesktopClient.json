@@ -2501,6 +2501,7 @@
     "DFFlagMomentsCreatePostCommentsControl": "True",
     "DFFlagMomentsCreatePostPublishTracking": "True",
     "DFFlagMomentsServiceAvatarPost2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-19T17:28:48",
+    "DFFlagMomentsServiceAvatarPostEmoteName_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-19T17:29:21",
     "DFFlagMomentsServiceCreatePostApi": "True",
     "DFFlagMomentsServiceFetchPostApi": "True",
     "DFFlagMoreGranularScopesNII": "True",
