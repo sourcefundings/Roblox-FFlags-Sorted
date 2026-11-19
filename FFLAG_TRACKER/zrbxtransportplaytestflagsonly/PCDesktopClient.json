@@ -15277,7 +15277,7 @@
     "FFlagHandleSortScoreUpdatesFromRtn": "True",
     "FFlagHandleVoiceBehaviorOnNetworkDisconnection": "True",
     "FFlagHandlesUseVisualSize": "True",
-    "FFlagHardenKTXLoader_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-19T20:26:53",
+    "FFlagHardenKTXLoader": "True",
     "FFlagHardenRemoteDebuggerServerSecurity": "True",
     "FFlagHatThumbnailingFallbackToGetObjects": "True",
     "FFlagHatThumbnailsFastForwardParticles": "True",
