@@ -1014,7 +1014,7 @@
     "DFFlagDebugDrawControllerManagerAdorns_PlaceFilter": "True;14484773887",
     "DFFlagDebugDrawEnable": "True",
     "DFFlagDebugDrawEngineContext": "True",
-    "DFFlagDebugDynamicRCCMemoryLimitsIgnoreContainerLimit_DataCenterFilter": "True;388;416;25502;26143;425;25960",
+    "DFFlagDebugDynamicRCCMemoryLimitsIgnoreContainerLimit_DataCenterFilter": "True;388;416;25502;26143;425;25960;25853",
     "DFFlagDebugEnableAudioInputProcessingOverrides": "True",
     "DFFlagDebugEnableCloseFmodLogs": "True",
     "DFFlagDebugEnableInstanceUniqueIdCrashOnCollision": "True",
