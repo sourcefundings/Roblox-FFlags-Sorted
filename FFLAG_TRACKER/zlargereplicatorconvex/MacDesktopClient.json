@@ -17957,7 +17957,7 @@
     "FFlagMutualFriendRenameFix": "True",
     "FFlagMvTpRequestsFix": "True",
     "FFlagMyStatsMediaSelector3": "True",
-    "FFlagNAPUseRootLabelTranslationKey_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-18T23:31:45",
+    "FFlagNAPUseRootLabelTranslationKey": "True",
     "FFlagNameNotAvailableErrorEnabled": "True",
     "FFlagNamedMutexMigrationFix": "True",
     "FFlagNamedMutexUseRuntime2": "True",
