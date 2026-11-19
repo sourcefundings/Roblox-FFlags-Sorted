@@ -20534,7 +20534,7 @@
     "FFlagSetActiveWhenConnecting": "True",
     "FFlagSetAliasFixFocusNavigation": "True",
     "FFlagSetAliasTracking": "True",
-    "FFlagSetAllowCustomAnimationsBeforeFirstCharacterSpawn_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-19T18:45:01",
+    "FFlagSetAllowCustomAnimationsBeforeFirstCharacterSpawn": "True",
     "FFlagSetAttributeEarlyOut": "True",
     "FFlagSetChangeBitMask": "True",
     "FFlagSetDefaultResolutionScaleForCustomDevice": "True",
