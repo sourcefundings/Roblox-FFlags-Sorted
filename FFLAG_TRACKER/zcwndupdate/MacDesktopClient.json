@@ -24859,7 +24859,7 @@
     "FIntUGCValidateLegYMinNormal": "130",
     "FIntUGCValidateLegYMinSlender": "130",
     "FIntUGCValidateMakeupMaxUBound": "3759770",
-    "FIntUGCValidateMakeupMaxVBound": "867187",
+    "FIntUGCValidateMakeupMaxVBound": "867188",
     "FIntUGCValidateMakeupMinUBound": "3238280",
     "FIntUGCValidateMakeupMinVBound": "190429",
     "FIntUGCValidateMaxCoplanarIntersectionsPercentage": "60",
