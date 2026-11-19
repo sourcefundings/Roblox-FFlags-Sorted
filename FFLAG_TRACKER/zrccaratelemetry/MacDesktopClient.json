@@ -838,6 +838,7 @@
     "DFFlagConvexDecompCompressionAnalytics692": "True",
     "DFFlagConvexDecompCompressionAnalytics693": "True",
     "DFFlagConvexDecompInertiaDataValidation": "False",
+    "DFFlagConvexHullFailOnBrokenTopology_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-19T17:08:37",
     "DFFlagCookieStoreEnabledMac": "True",
     "DFFlagCoreScriptTelemetry2": "True",
     "DFFlagCoreStrengthIsImportant": "True",
