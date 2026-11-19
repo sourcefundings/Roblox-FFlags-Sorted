@@ -24828,7 +24828,7 @@
     "FIntUGCValidateBackAccessoryNormalMapTextureLimit": "2048",
     "FIntUGCValidateBackAccessoryRoughnessMapTextureLimit": "2048",
     "FIntUGCValidateBodyPartTranslationMaxDistanceHundredths": "250",
-    "FIntUGCValidateBoneTranslationMaxDistanceHundredths_Staged": "250;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-19T21:09:48",
+    "FIntUGCValidateBoneTranslationMaxDistanceHundredths": "250",
     "FIntUGCValidateDressSkirtAccessoryColorMapTextureLimit": "2048",
     "FIntUGCValidateDressSkirtAccessoryMetalnessMapTextureLimit": "2048",
     "FIntUGCValidateDressSkirtAccessoryNormalMapTextureLimit": "2048",
