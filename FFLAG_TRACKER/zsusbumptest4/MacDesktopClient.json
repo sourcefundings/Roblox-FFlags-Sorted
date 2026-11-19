@@ -15836,7 +15836,7 @@
     "FFlagLibWebrtcPassthroughCloseDecodeLoop": "True",
     "FFlagLibWebrtcSuppressFramesDroppedArtifact": "True",
     "FFlagLiftLuauAPIs": "True",
-    "FFlagLightGridCPURejectEmptyLightExtents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-18T23:52:59",
+    "FFlagLightGridCPURejectEmptyLightExtents": "True",
     "FFlagLightGridCPUShadowMaskBoundsCheck": "True",
     "FFlagLightGridDarkWorldFix": "True",
     "FFlagLightGuidesSupportDetachedAttachments": "True",
