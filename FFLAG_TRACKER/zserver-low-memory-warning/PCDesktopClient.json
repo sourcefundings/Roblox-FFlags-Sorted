@@ -7231,7 +7231,7 @@
     "FFlagAXCategoryById2": "False",
     "FFlagAXCategoryById3": "True",
     "FFlagAXCategoryMenuBadgePositionTokens2": "True",
-    "FFlagAXCategoryMenuButtonsFromCategoryData_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-18T23:08:31",
+    "FFlagAXCategoryMenuButtonsFromCategoryData": "True",
     "FFlagAXCategoryMenuVisualFixes": "True",
     "FFlagAXCategoryPillAnimationsUserMotionSettings": "True",
     "FFlagAXCategoryPillColorAnimation": "True",
