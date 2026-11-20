@@ -14803,6 +14803,7 @@
     "FFlagFoundationKnobRaisedShadow": "True",
     "FFlagFoundationKnobRemoveGroupTransparency": "True",
     "FFlagFoundationLazyOverlayLoading": "True",
+    "FFlagFoundationLightweightGuiControlState_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;842681403;2026-11-20T00:06:37",
     "FFlagFoundationListItemDecoupledInput": "True",
     "FFlagFoundationListItemTypographySpacing": "True",
     "FFlagFoundationListStableContextValue": "True",
