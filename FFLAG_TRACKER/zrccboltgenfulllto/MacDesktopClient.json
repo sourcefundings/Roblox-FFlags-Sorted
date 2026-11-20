@@ -18497,6 +18497,7 @@
     "FFlagPerFocusGC3": "True",
     "FFlagPerFocusGCDistance": "True",
     "FFlagPerfControlAlwaysConstructMRO": "True",
+    "FFlagPerfCountersInherit": "True",
     "FFlagPerfCountersInherit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-20T19:17:56",
     "FFlagPerfDataOnTelemetryV2": "True",
     "FFlagPerfDataOnTelemetryV2HighCardinalityFields": "True",
