@@ -5930,6 +5930,7 @@
     "DFIntQuicWriteStreamErrAggregationTimeThresholdInSeconds": "60",
     "DFIntRASDMeasurementHundredths": "10000",
     "DFIntRCCExecuteScriptFailureInfluxHundrethsPercentage": "1000",
+    "DFIntRCCExtraWorkerConcurrency": "1",
     "DFIntRCCFailedToEvictPlayerInfluxHundrethsPercentage": "100",
     "DFIntRCCForcedScreenshotRequestsSentThrottleHundredthsPercent": "10000",
     "DFIntRCCInstanceTrackingOnElasticSearchHundredthsPercentage_DataCenterFilter": "10000;26032;26033;26034;26035;26036;26037;26048;26049;26050;26051;26052;26053;26059;26060;26061;26062;26063;26064;25811;25814;438;439;388;416;25502;26143;524;417;26144;25851",
