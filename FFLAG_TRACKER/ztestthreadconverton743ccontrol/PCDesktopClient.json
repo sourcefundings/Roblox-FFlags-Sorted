@@ -12677,6 +12677,7 @@
     "FFlagEnablePhoto2Avatar8": "True",
     "FFlagEnablePioneerBrazilContentRatingBadge": "True",
     "FFlagEnablePioneerLandingPageLayout5": "True",
+    "FFlagEnablePioneerLandingPageSso": "True",
     "FFlagEnablePioneerLandingPageSso_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-20T18:13:42",
     "FFlagEnablePioneerPostAuthGameJoin6": "True",
     "FFlagEnablePioneerUX": "True",
