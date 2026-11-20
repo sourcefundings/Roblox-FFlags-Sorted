@@ -13841,7 +13841,7 @@
     "FFlagFixAuthlessPasskeyPopupAccountCreation": "True",
     "FFlagFixAutoPlayInTeamCreate": "True",
     "FFlagFixAutoSyncContacts": "True",
-    "FFlagFixAvatarSaveAchievementListenerRace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-20T00:29:09",
+    "FFlagFixAvatarSaveAchievementListenerRace": "True",
     "FFlagFixAvatarUtilCharacter": "True",
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
     "FFlagFixBTIDStateTelemetry": "True",
