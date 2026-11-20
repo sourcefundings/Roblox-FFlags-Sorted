@@ -17720,6 +17720,7 @@
     "FFlagMobileGameJoinCardTTITracking": "True",
     "FFlagMobileGameJoinCardThumbnail": "True",
     "FFlagMobileGameJoinCardThumbnail_IXP": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardEDPClickthrough;1733192645;dev_controlled",
+    "FFlagMobileGameJoinCardVideo2_IXP": "1;Social.ViewFriendSortInGameFriends;Social.ViewFriendSortInGameFriends.MobileGameJoinCardVideoPreview;1563807730;dev_controlled",
     "FFlagMobileMorePageScrollToTop": "True",
     "FFlagMobileOutlineColorFix": "True",
     "FFlagMobilePlayerListCheckGamepadOnVisible": "True",
