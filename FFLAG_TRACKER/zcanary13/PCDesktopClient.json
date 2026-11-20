@@ -1230,6 +1230,7 @@
     "DFFlagEmitSSSnapSizeTelemetry": "True",
     "DFFlagEmoteSkinningDisableInEngine": "True",
     "DFFlagEmptyMeshPartBoxFidelitySyncFix": "False",
+    "DFFlagEmptyMeshPartBoxFidelitySyncFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2026-11-20T00:01:50",
     "DFFlagEnableAccountSwitcherForAuthTicketOperations": "True",
     "DFFlagEnableAdAvailabilityUseNoFill": "True",
     "DFFlagEnableAdRewardNotificationTelemetry": "True",
