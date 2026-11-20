@@ -19353,7 +19353,7 @@
     "FFlagProfilePlatformUseViewerRelationshipForSocialState": "True",
     "FFlagProfileQRCodeCameraDeeplinkedLogging_v2": "True",
     "FFlagProfileQRCodeFixFocusNavigation": "True",
-    "FFlagProfileQRCodeGamepadBackFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-20T19:39:25",
+    "FFlagProfileQRCodeGamepadBackFix": "True",
     "FFlagProfileQrCodeDeprecateUserRedux": "True",
     "FFlagProfileRemoveChatForU13": "True",
     "FFlagProfileRenderAvatarMoments2": "True",
