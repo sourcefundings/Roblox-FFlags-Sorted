@@ -12217,6 +12217,8 @@
     "FFlagEnableGenericWebviewInvisibleMode": "True",
     "FFlagEnableGetAvailableSubscriptionProducts3": "True",
     "FFlagEnableGetCredentialsInCredentialsProtocolHook": "True",
+    "FFlagEnableGetFriendsInServer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-20T17:13:02",
+    "FFlagEnableGetFriendsInUniverse_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-20T17:13:28",
     "FFlagEnableGetFriendshipStatus": "True",
     "FFlagEnableGetLatestVersionUriAsync": "True",
     "FFlagEnableGetQueryInfoFailureReason": "True",
