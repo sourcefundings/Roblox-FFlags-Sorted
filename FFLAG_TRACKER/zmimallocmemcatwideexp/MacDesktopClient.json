@@ -13443,7 +13443,7 @@
     "FFlagExpChatTransparentFocusSupport": "True",
     "FFlagExpChatTriggerWindowStatusEvent": "True",
     "FFlagExpChatTrimMessageStore": "True",
-    "FFlagExpChatUnconditionalCombinedNameHook_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1071634130;2026-11-19T22:55:36",
+    "FFlagExpChatUnconditionalCombinedNameHook": "True",
     "FFlagExpChatUnibarAvailabilityRefactor": "True",
     "FFlagExpChatUnibarThumbstickNavigate": "True",
     "FFlagExpChatUniverseChatPresetEnabled2": "True",
