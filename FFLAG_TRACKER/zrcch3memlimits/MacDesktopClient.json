@@ -17468,7 +17468,7 @@
     "FFlagMacAccountProtocolSupport": "True",
     "FFlagMacApplyStartupFullscreenAfterSettingsLoad": "True",
     "FFlagMacBackgroundDownloadUpdates2": "False",
-    "FFlagMacBackgroundDownloadUpdates3": "False",
+    "FFlagMacBackgroundDownloadUpdates3": "True",
     "FFlagMacBrowserServiceExecuteJavaScript": "True",
     "FFlagMacCheckTTIFlagRetry": "True",
     "FFlagMacClientSupportIME9": "True",

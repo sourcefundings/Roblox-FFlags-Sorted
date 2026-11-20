@@ -17512,7 +17512,6 @@
     "FFlagMTLDeviceReportGetVideoMemoryInfoAsMiB": "True",
     "FFlagMVAlphaModeBetaFeature": "True",
     "FFlagMacAccountProtocolSupport": "True",
-    "FFlagMacBackgroundDownloadUpdates2": "False",
     "FFlagMacBackgroundDownloadUpdates3": "False",
     "FFlagMacBrowserServiceExecuteJavaScript": "True",
     "FFlagMacCheckTTIFlagRetry": "True",
