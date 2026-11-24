@@ -3783,6 +3783,7 @@
     "DFFlagSimFixBundleReversedBodyPair": "True",
     "DFFlagSimFixCanSetNetworkOwnership": "True",
     "DFFlagSimFixClumpCollect": "True",
+    "DFFlagSimFixDecodeRotationIdMatrix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2000-01-01T00:00:00",
     "DFFlagSimFixHumanoidFloorProcessCollisionGroups": "True",
     "DFFlagSimFixInertiaEmptyAssetId": "True",
     "DFFlagSimFixLegacyJointSleep": "True",
