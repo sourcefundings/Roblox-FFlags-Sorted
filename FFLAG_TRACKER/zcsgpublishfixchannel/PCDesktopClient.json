@@ -10089,7 +10089,7 @@
     "FFlagBuildExperienceDontAskAgainPushUpsell": "True",
     "FFlagBuildExperienceEventContextTelemetry": "True",
     "FFlagBuildExperienceExcludeUserWaitFromTurnDuration": "True",
-    "FFlagBuildExperienceFTUXChipConversationIdTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-24T20:00:45",
+    "FFlagBuildExperienceFTUXChipConversationIdTelemetry": "True",
     "FFlagBuildExperienceFTUXChipExhaustedTelemetry": "True",
     "FFlagBuildExperienceFTUXChipLoadInAnimation": "True",
     "FFlagBuildExperienceFixChatBottomLock": "True",
