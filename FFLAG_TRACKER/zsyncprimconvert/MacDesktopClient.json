@@ -9650,6 +9650,7 @@
     "FFlagAutomaticDRS5": "True",
     "FFlagAutomaticDRSDisableHighDPIFramebufferHalving4": "False",
     "FFlagAutomaticDRSDisableHighDPIFramebufferHalving5": "True",
+    "FFlagAutomaticDRSDisableInVR_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;true;1559530708;2026-11-24T23:50:09",
     "FFlagAutomaticDRSEnableLowDPI": "True",
     "FFlagAutomaticDRSPlaceDenyListEnabled": "True",
     "FFlagAutomaticDRSUseGpuTime2": "True",
