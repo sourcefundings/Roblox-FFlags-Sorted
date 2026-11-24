@@ -17822,7 +17822,7 @@
     "FFlagMigratePublishingNewEndpoint": "True",
     "FFlagMigratePymkCarouselHttpRequestToRequestInternal": "True",
     "FFlagMigrateRewardedToTelemetryBindings": "True",
-    "FFlagMigrateSoapHandlersTelemetryToV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;75;Promote;2026-11-24T19:34:37",
+    "FFlagMigrateSoapHandlersTelemetryToV2": "True",
     "FFlagMigrateSocialGraphSync": "True",
     "FFlagMigrateStatusIndicatorBuyRobuxButton": "True",
     "FFlagMigrateStudioObservabilityAlertingTelemetryToV2": "True",
