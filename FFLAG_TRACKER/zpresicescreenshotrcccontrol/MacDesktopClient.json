@@ -24302,7 +24302,7 @@
     "FIntAutoReconnectGameJoinFailureMaxRetryCount": "2",
     "FIntAutoReconnectRequestTimeout": "10000",
     "FIntAutomaticDRSHundredthPercent": "10000",
-    "FIntAutomaticDRSHundredthPercent_IXP": "1;FRM_Experiments;FRM_DrawModerateAndDRS_NonMobile;790843896;flagbank",
+    "FIntAutomaticDRSHundredthPercent_IXP": "1;FRM_Experiments;FRM_DrawModerateAndDRS_Mac;1376236177;flagbank",
     "FIntAutomaticSizingListPickerHotfix": "15",
     "FIntAvatarAutosetupPollingTimeoutSeconds": "1800",
     "FIntAvatarChatHeartbeatStatsEventThrottleHundrethsPercent": "100",
