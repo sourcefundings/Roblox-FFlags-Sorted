@@ -13641,7 +13641,7 @@
     "FFlagExplorerExposeDoubleClick": "True",
     "FFlagExplorerFastSearch": "True",
     "FFlagExplorerFilterActionContext": "True",
-    "FFlagExplorerFilterContentProperties": "true",
+    "FFlagExplorerFilterContentProperties": "false",
     "FFlagExplorerFilterHasIncrementalSearch": "True",
     "FFlagExplorerFixContextMenu": "True",
     "FFlagExplorerFixPackageLinkIconColor": "True",
